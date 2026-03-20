@@ -45,12 +45,10 @@
     <link href="http://example.com/2023/12/25/hello/"/>
     <published>2023-12-24T16:16:18.000Z</published>
     <summary>
-      <![CDATA[<p>欢迎来到我的全新博客！这里是我记录学习、分享知识和技术心得的地方。<br />
-关于 Hexo<br />
-今天，我刚刚搭建好了这个由 Hexo 驱动的个人博客。Hexo 是一个快速、简洁且高效的博客框架，它能将 Markdown]]>
+      <![CDATA[<p>Welcome to my brand new blog! This is a place where I will record my learning journey, share knowledge, and reflect on my technical]]>
     </summary>
-    <title>你好啊</title>
-    <updated>2026-03-19T07:54:18.851Z</updated>
+    <title>Hello</title>
+    <updated>2026-03-19T07:54:49.580Z</updated>
   </entry>
   <entry>
     <author>
@@ -60,9 +58,11 @@
     <link href="http://example.com/2023/12/25/hello/"/>
     <published>2023-12-24T16:16:18.000Z</published>
     <summary>
-      <![CDATA[<p>Welcome to my brand new blog! This is a place where I will record my learning journey, share knowledge, and reflect on my technical]]>
+      <![CDATA[<p>欢迎来到我的全新博客！这里是我记录学习、分享知识和技术心得的地方。<br />
+关于 Hexo<br />
+今天，我刚刚搭建好了这个由 Hexo 驱动的个人博客。Hexo 是一个快速、简洁且高效的博客框架，它能将 Markdown]]>
     </summary>
-    <title>Hello</title>
-    <updated>2026-03-19T07:54:49.580Z</updated>
+    <title>你好啊</title>
+    <updated>2026-03-19T07:54:18.851Z</updated>
   </entry>
 </feed>
