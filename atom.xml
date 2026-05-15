@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>彤哥</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <icon>https://1124839262.github.io/icon.png</icon>
+  <id>https://1124839262.github.io/</id>
+  <link href="https://1124839262.github.io/" rel="alternate"/>
+  <link href="https://1124839262.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, 彤哥</rights>
+  <subtitle>rednoob</subtitle>
+  <title>彤哥的个人博客</title>
+  <updated>2026-05-15T07:41:55.175Z</updated>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="java" scheme="https://1124839262.github.io/categories/java/"/>
+    <category term="java maven" scheme="https://1124839262.github.io/tags/java-maven/"/>
+    <id>https://1124839262.github.io/2026/05/15/maven-jar-plugin/</id>
+    <link href="https://1124839262.github.io/2026/05/15/maven-jar-plugin/"/>
+    <published>2026-05-15T07:18:56.000Z</published>
+    <summary>
+      <![CDATA[<p>1, 打包jar文件, source, doc</p>
+<figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span]]>
+    </summary>
+    <title>maven打包</title>
+    <updated>2026-05-15T07:41:55.175Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <id>https://1124839262.github.io/2026/04/23/wordedit/</id>
+    <link href="https://1124839262.github.io/2026/04/23/wordedit/"/>
+    <published>2026-04-23T02:25:48.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="canvas-editor是一个基于html5-canvas的富文本编辑器支持所见即所得的编辑体验支持图片上传-视频嵌入-格式排版等功能可以用于笔记编辑-文档编辑-评论区富文本编辑等场景"><a class="markdownIt-Anchor"]]>
+    </summary>
+    <title>wordedit</title>
+    <updated>2026-04-23T02:32:31.702Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <id>https://1124839262.github.io/2026/04/22/uniapp01/</id>
+    <link href="https://1124839262.github.io/2026/04/22/uniapp01/"/>
+    <published>2026-04-22T00:42:11.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="uniapp是一个可以将业务逻辑层代码运行到微信小程序-h5-app等多个平台的框架-最近写了一个uniapp-的-安卓软件-底层用的安卓的代码"><a class="markdownIt-Anchor"]]>
+    </summary>
+    <title>uniapp学习</title>
+    <updated>2026-04-23T02:15:18.284Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <id>https://1124839262.github.io/2026/04/18/ai01/</id>
+    <link href="https://1124839262.github.io/2026/04/18/ai01/"/>
+    <published>2026-04-18T10:05:58.000Z</published>
+    <summary>
+      <![CDATA[<p>最近学习了springai的相关内容，记录一下。<br />
+我的项目地址 <a]]>
+    </summary>
+    <title>springai的学习笔记</title>
+    <updated>2026-04-18T10:09:30.266Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <id>https://1124839262.github.io/2026/04/17/openresty/</id>
+    <link href="https://1124839262.github.io/2026/04/17/openresty/"/>
+    <published>2026-04-17T05:00:09.000Z</published>
+    <summary>
+      <![CDATA[<p>openresty 怎么使用？</p>
+<p>安装完成之后，和普通 nginx 使用一样。<br />
+具体配置如下</p>
+<h1 id="配置1"><a class="markdownIt-Anchor" href="#配置1"></a>]]>
+    </summary>
+    <title>openresty 如何使用</title>
+    <updated>2026-04-18T08:18:41.901Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <id>https://1124839262.github.io/2026/04/09/javaPublish/</id>
+    <link href="https://1124839262.github.io/2026/04/09/javaPublish/"/>
+    <published>2026-04-09T08:51:42.000Z</published>
+    <summary>
+      <![CDATA[<p>项目启动 通过jar方式启动</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span]]>
+    </summary>
+    <title>项目启动jar</title>
+    <updated>2026-04-09T08:53:36.775Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    <id>https://1124839262.github.io/2026/04/03/daily260403/</id>
+    <link href="https://1124839262.github.io/2026/04/03/daily260403/"/>
+    <published>2026-04-03T00:09:18.000Z</published>
+    <summary>
+      <![CDATA[<p>项目中使用gateway做路由<br />
+所以我学习了一下spring cloud gateway<br />
+gateway是一个进行路由的框架<br />
+spring-cloud-starter-gateway<br />
+搭配hystrix做断路器,]]>
+    </summary>
+    <title>daily260403</title>
+    <updated>2026-04-03T00:39:20.497Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="开发" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/"/>
+    <category term="Word" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/Word/"/>
+    <category term="java" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/Word/java/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="Word" scheme="https://1124839262.github.io/tags/Word/"/>
+    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
+    <id>https://1124839262.github.io/2026/03/26/poi-tl/</id>
+    <link href="https://1124839262.github.io/2026/03/26/poi-tl/"/>
+    <published>2026-03-26T08:29:42.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="poi-tl-documentation"><a class="markdownIt-Anchor" href="#poi-tl-documentation"></a> Poi-tl Documentation</h1>
+<blockquote>
+<h2]]>
+    </summary>
+    <title>poi-tl</title>
+    <updated>2026-03-26T08:45:25.737Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="数据库" scheme="https://1124839262.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <category term="数据库" scheme="https://1124839262.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <id>https://1124839262.github.io/2026/03/25/dynamic-datasorce/</id>
+    <link href="https://1124839262.github.io/2026/03/25/dynamic-datasorce/"/>
+    <published>2026-03-25T03:26:13.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="dynamic-datasource文档"><a class="markdownIt-Anchor" href="#dynamic-datasource文档"></a> dynamic-datasource文档</h1>
+<hr]]>
+    </summary>
+    <title>dynamic-datasorce</title>
+    <updated>2026-03-26T00:12:51.329Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
+    <id>https://1124839262.github.io/2026/03/25/daily260325_1/</id>
+    <link href="https://1124839262.github.io/2026/03/25/daily260325_1/"/>
+    <published>2026-03-25T02:24:09.000Z</published>
+    <summary>
+      <![CDATA[<h3 id="数据库大表优化"><a class="markdownIt-Anchor" href="#数据库大表优化"></a> 数据库大表优化</h3>
+<h4]]>
+    </summary>
+    <title>数据库大表优化</title>
+    <updated>2026-03-25T02:41:53.484Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    <id>https://1124839262.github.io/2026/03/25/daily260325/</id>
+    <link href="https://1124839262.github.io/2026/03/25/daily260325/"/>
+    <published>2026-03-25T01:34:22.000Z</published>
+    <summary>
+      <![CDATA[<h3 id="最近学习"><a class="markdownIt-Anchor" href="#最近学习"></a> 最近学习</h3>
+<p>学习了监控知识, 项目中监控用的prometheus, 然后自己也部署了一个单节点的prometheus进行学习<br]]>
+    </summary>
+    <title>日常总结</title>
+    <updated>2026-03-25T02:41:53.479Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="运维" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/"/>
+    <category term="AI生成" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/AI%E7%94%9F%E6%88%90/"/>
+    <category term="监控" scheme="https://1124839262.github.io/tags/%E7%9B%91%E6%8E%A7/"/>
+    <id>https://1124839262.github.io/2026/03/25/grafana/</id>
+    <link href="https://1124839262.github.io/2026/03/25/grafana/"/>
+    <published>2026-03-25T01:26:35.000Z</published>
+    <summary>
+      <![CDATA[<h3 id="grafana"><a class="markdownIt-Anchor" href="#grafana"></a> grafana</h3>
+<p><strong>Grafana</strong>]]>
+    </summary>
+    <title>grafana</title>
+    <updated>2026-03-25T01:29:47.555Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="Operations" scheme="https://1124839262.github.io/categories/Operations/"/>
+    <category term="AI-generated" scheme="https://1124839262.github.io/categories/Operations/AI-generated/"/>
+    <category term="monitoring" scheme="https://1124839262.github.io/tags/monitoring/"/>
+    <id>https://1124839262.github.io/2026/03/25/grafana/</id>
+    <link href="https://1124839262.github.io/2026/03/25/grafana/"/>
+    <published>2026-03-25T01:26:35.000Z</published>
+    <summary>
+      <![CDATA[<h3 id="grafana"><a class="markdownIt-Anchor" href="#grafana"></a> Grafana</h3>
+<p><strong>Grafana</strong> is an open-source platform]]>
+    </summary>
+    <title>grafana</title>
+    <updated>2026-03-25T01:33:32.680Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="运维" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/"/>
+    <category term="AI生成" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/AI%E7%94%9F%E6%88%90/"/>
+    <category term="监控" scheme="https://1124839262.github.io/tags/%E7%9B%91%E6%8E%A7/"/>
+    <id>https://1124839262.github.io/2026/03/23/node_exporter/</id>
+    <link href="https://1124839262.github.io/2026/03/23/node_exporter/"/>
+    <published>2026-03-23T08:24:54.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="linux-上安装与配置-node_exporter"><a class="markdownIt-Anchor" href="#linux-上安装与配置-node_exporter"></a> LINUX 上安装与配置]]>
+    </summary>
+    <title>2, node_exporter 的安装与配置</title>
+    <updated>2026-03-23T08:55:32.075Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="运维" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/"/>
+    <category term="AI生成" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/AI%E7%94%9F%E6%88%90/"/>
+    <category term="监控" scheme="https://1124839262.github.io/tags/%E7%9B%91%E6%8E%A7/"/>
+    <id>https://1124839262.github.io/2026/03/23/node_exporter/</id>
+    <link href="https://1124839262.github.io/2026/03/23/node_exporter/"/>
+    <published>2026-03-23T08:24:54.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="installing-and-configuring-node_exporter-on-linux"><a class="markdownIt-Anchor"]]>
+    </summary>
+    <title>2, Installation and Configuration of node_exporter</title>
+    <updated>2026-03-23T08:55:32.061Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="运维" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/"/>
+    <category term="AI生成" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/AI%E7%94%9F%E6%88%90/"/>
+    <category term="监控" scheme="https://1124839262.github.io/tags/%E7%9B%91%E6%8E%A7/"/>
+    <id>https://1124839262.github.io/2026/03/23/operations/</id>
+    <link href="https://1124839262.github.io/2026/03/23/operations/"/>
+    <published>2026-03-23T08:10:10.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="简介"><a class="markdownIt-Anchor" href="#简介"></a> 简介</h2>
+<h3 id="prometheus"><a class="markdownIt-Anchor" href="#prometheus"></a>]]>
+    </summary>
+    <title>1, 设备监控</title>
+    <updated>2026-03-23T08:55:32.052Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="运维" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/"/>
+    <category term="AI生成" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/AI%E7%94%9F%E6%88%90/"/>
+    <category term="监控" scheme="https://1124839262.github.io/tags/%E7%9B%91%E6%8E%A7/"/>
+    <id>https://1124839262.github.io/2026/03/23/operations/</id>
+    <link href="https://1124839262.github.io/2026/03/23/operations/"/>
+    <published>2026-03-23T08:10:10.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="introduction"><a class="markdownIt-Anchor" href="#introduction"></a> Introduction</h2>
+<h3 id="prometheus"><a]]>
+    </summary>
+    <title>1, Device Monitoring</title>
+    <updated>2026-03-23T08:55:32.042Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="基础" scheme="https://1124839262.github.io/categories/%E5%9F%BA%E7%A1%80/"/>
+    <category term="AI生成" scheme="https://1124839262.github.io/categories/%E5%9F%BA%E7%A1%80/AI%E7%94%9F%E6%88%90/"/>
+    <id>https://1124839262.github.io/2026/03/20/java/</id>
+    <link href="https://1124839262.github.io/2026/03/20/java/"/>
+    <published>2026-03-20T07:04:16.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="java-基础语法"><a class="markdownIt-Anchor" href="#java-基础语法"></a> Java 基础语法</h2>
+<h3 id="1-程序结构"><a class="markdownIt-Anchor"]]>
+    </summary>
+    <title>java</title>
+    <updated>2026-03-23T08:55:32.090Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="基础" scheme="https://1124839262.github.io/categories/%E5%9F%BA%E7%A1%80/"/>
+    <category term="AI生成" scheme="https://1124839262.github.io/categories/%E5%9F%BA%E7%A1%80/AI%E7%94%9F%E6%88%90/"/>
+    <id>https://1124839262.github.io/2026/03/20/java/</id>
+    <link href="https://1124839262.github.io/2026/03/20/java/"/>
+    <published>2026-03-20T07:04:16.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="java-basic-syntax"><a class="markdownIt-Anchor" href="#java-basic-syntax"></a> Java Basic Syntax</h2>
+<h3]]>
+    </summary>
+    <title>java</title>
+    <updated>2026-03-23T08:55:32.048Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="测试" scheme="https://1124839262.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+    <category term="AI生成" scheme="https://1124839262.github.io/categories/%E6%B5%8B%E8%AF%95/AI%E7%94%9F%E6%88%90/"/>
+    <id>https://1124839262.github.io/2026/03/19/first/</id>
+    <link href="https://1124839262.github.io/2026/03/19/first/"/>
+    <published>2026-03-19T08:08:14.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="markdown-使用方法"><a class="markdownIt-Anchor" href="#markdown-使用方法"></a> Markdown 使用方法</h2>
+<h3 id="基础语法"><a]]>
+    </summary>
+    <title>md使用方法</title>
+    <updated>2026-03-23T08:55:32.066Z</updated>
+  </entry>
+</feed>
