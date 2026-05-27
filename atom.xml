@@ -11,7 +11,25 @@
   <rights>All rights reserved 2026, 彤哥</rights>
   <subtitle>rednoob</subtitle>
   <title>彤哥的个人博客</title>
-  <updated>2026-05-25T06:07:07.783Z</updated>
+  <updated>2026-05-27T01:18:45.018Z</updated>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="算法" scheme="https://1124839262.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://1124839262.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    <id>https://1124839262.github.io/2026/05/27/Snowflake/</id>
+    <link href="https://1124839262.github.io/2026/05/27/Snowflake/"/>
+    <published>2026-05-27T00:31:37.000Z</published>
+    <summary>
+      <![CDATA[<p>雪花算法是推特公司开源的一种分布式ID生成算法，用于在高并发场景下生成全局唯一的ID。</p>
+<p>雪花算法结构：<br />
+1bit（符号位）+ 41bit（时间戳）+ 10bit（机器ID）+ 12bit（序列号）</p>
+<figure]]>
+    </summary>
+    <title>雪花算法</title>
+    <updated>2026-05-27T01:18:45.018Z</updated>
+  </entry>
   <entry>
     <author>
       <name>彤哥</name>
@@ -25,7 +43,7 @@
       <![CDATA[<h2 id="二分查找法"><a class="markdownIt-Anchor" href="#二分查找法"></a>]]>
     </summary>
     <title>二分查找法</title>
-    <updated>2026-05-25T06:07:07.783Z</updated>
+    <updated>2026-05-25T06:24:09.630Z</updated>
   </entry>
   <entry>
     <author>
@@ -262,10 +280,10 @@ spring-cloud-starter-gateway<br />
     <link href="https://1124839262.github.io/2026/03/23/node_exporter/"/>
     <published>2026-03-23T08:24:54.000Z</published>
     <summary>
-      <![CDATA[<h1 id="linux-上安装与配置-node_exporter"><a class="markdownIt-Anchor" href="#linux-上安装与配置-node_exporter"></a> LINUX 上安装与配置]]>
+      <![CDATA[<h1 id="installing-and-configuring-node_exporter-on-linux"><a class="markdownIt-Anchor"]]>
     </summary>
-    <title>2, node_exporter 的安装与配置</title>
-    <updated>2026-03-23T08:55:32.075Z</updated>
+    <title>2, Installation and Configuration of node_exporter</title>
+    <updated>2026-03-23T08:55:32.061Z</updated>
   </entry>
   <entry>
     <author>
@@ -278,10 +296,10 @@ spring-cloud-starter-gateway<br />
     <link href="https://1124839262.github.io/2026/03/23/node_exporter/"/>
     <published>2026-03-23T08:24:54.000Z</published>
     <summary>
-      <![CDATA[<h1 id="installing-and-configuring-node_exporter-on-linux"><a class="markdownIt-Anchor"]]>
+      <![CDATA[<h1 id="linux-上安装与配置-node_exporter"><a class="markdownIt-Anchor" href="#linux-上安装与配置-node_exporter"></a> LINUX 上安装与配置]]>
     </summary>
-    <title>2, Installation and Configuration of node_exporter</title>
-    <updated>2026-03-23T08:55:32.061Z</updated>
+    <title>2, node_exporter 的安装与配置</title>
+    <updated>2026-03-23T08:55:32.075Z</updated>
   </entry>
   <entry>
     <author>
@@ -316,21 +334,5 @@ spring-cloud-starter-gateway<br />
     </summary>
     <title>1, Device Monitoring</title>
     <updated>2026-03-23T08:55:32.042Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="基础" scheme="https://1124839262.github.io/categories/%E5%9F%BA%E7%A1%80/"/>
-    <category term="AI生成" scheme="https://1124839262.github.io/categories/%E5%9F%BA%E7%A1%80/AI%E7%94%9F%E6%88%90/"/>
-    <id>https://1124839262.github.io/2026/03/20/java/</id>
-    <link href="https://1124839262.github.io/2026/03/20/java/"/>
-    <published>2026-03-20T07:04:16.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="java-基础语法"><a class="markdownIt-Anchor" href="#java-基础语法"></a> Java 基础语法</h2>
-<h3 id="1-程序结构"><a class="markdownIt-Anchor"]]>
-    </summary>
-    <title>java</title>
-    <updated>2026-03-23T08:55:32.090Z</updated>
   </entry>
 </feed>
