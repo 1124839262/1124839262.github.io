@@ -11,7 +11,24 @@
   <rights>All rights reserved 2026, 彤哥</rights>
   <subtitle>rednoob</subtitle>
   <title>彤哥的个人博客</title>
-  <updated>2026-06-24T09:01:19.296Z</updated>
+  <updated>2026-07-02T01:21:35.140Z</updated>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <category term="算法" scheme="https://1124839262.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <id>https://1124839262.github.io/2026/07/02/seckill-system/</id>
+    <link href="https://1124839262.github.io/2026/07/02/seckill-system/"/>
+    <published>2026-07-02T04:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="秒杀系统概述"><a class="markdownIt-Anchor" href="#秒杀系统概述"></a> 秒杀系统概述</h2>
+<p>秒杀场景的核心特征：<strong>短时间、高并发、库存有限</strong>。典型场景如 618]]>
+    </summary>
+    <title>秒杀系统设计</title>
+    <updated>2026-07-02T01:21:35.140Z</updated>
+  </entry>
   <entry>
     <author>
       <name>彤哥</name>
@@ -293,22 +310,6 @@ spring-cloud-starter-gateway<br />
     <link href="https://1124839262.github.io/2026/03/23/node_exporter/"/>
     <published>2026-03-23T08:24:54.000Z</published>
     <summary>
-      <![CDATA[<h1 id="installing-and-configuring-node_exporter-on-linux"><a class="markdownIt-Anchor"]]>
-    </summary>
-    <title>2, Installation and Configuration of node_exporter</title>
-    <updated>2026-03-23T08:55:32.061Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="运维" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/"/>
-    <category term="AI生成" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/AI%E7%94%9F%E6%88%90/"/>
-    <category term="监控" scheme="https://1124839262.github.io/tags/%E7%9B%91%E6%8E%A7/"/>
-    <id>https://1124839262.github.io/2026/03/23/node_exporter/</id>
-    <link href="https://1124839262.github.io/2026/03/23/node_exporter/"/>
-    <published>2026-03-23T08:24:54.000Z</published>
-    <summary>
       <![CDATA[<h1 id="linux-上安装与配置-node_exporter"><a class="markdownIt-Anchor" href="#linux-上安装与配置-node_exporter"></a> LINUX 上安装与配置]]>
     </summary>
     <title>2, node_exporter 的安装与配置</title>
@@ -321,14 +322,13 @@ spring-cloud-starter-gateway<br />
     <category term="运维" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/"/>
     <category term="AI生成" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/AI%E7%94%9F%E6%88%90/"/>
     <category term="监控" scheme="https://1124839262.github.io/tags/%E7%9B%91%E6%8E%A7/"/>
-    <id>https://1124839262.github.io/2026/03/23/operations/</id>
-    <link href="https://1124839262.github.io/2026/03/23/operations/"/>
-    <published>2026-03-23T08:10:10.000Z</published>
+    <id>https://1124839262.github.io/2026/03/23/node_exporter/</id>
+    <link href="https://1124839262.github.io/2026/03/23/node_exporter/"/>
+    <published>2026-03-23T08:24:54.000Z</published>
     <summary>
-      <![CDATA[<h2 id="简介"><a class="markdownIt-Anchor" href="#简介"></a> 简介</h2>
-<h3 id="prometheus"><a class="markdownIt-Anchor" href="#prometheus"></a>]]>
+      <![CDATA[<h1 id="installing-and-configuring-node_exporter-on-linux"><a class="markdownIt-Anchor"]]>
     </summary>
-    <title>1, 设备监控</title>
-    <updated>2026-03-23T08:55:32.052Z</updated>
+    <title>2, Installation and Configuration of node_exporter</title>
+    <updated>2026-03-23T08:55:32.061Z</updated>
   </entry>
 </feed>
