@@ -33,14 +33,19 @@
     <author>
       <name>彤哥</name>
     </author>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
     <id>https://1124839262.github.io/2026/06/24/ExpiredOrdersClose/</id>
     <link href="https://1124839262.github.io/2026/06/24/ExpiredOrdersClose/"/>
     <published>2026-06-24T07:32:50.000Z</published>
     <summary>
-      <![CDATA[<p>业务场景: 订单超 30]]>
+      <![CDATA[<h2 id="业务场景"><a class="markdownIt-Anchor" href="#业务场景"></a> 业务场景</h2>
+<p>订单超 30 分钟未支付，则自动取消订单并释放库存。类似场景还有：优惠券过期、预约超时等。</p>
+<hr />
+<h2]]>
     </summary>
     <title>过期订单关闭</title>
-    <updated>2026-06-24T09:01:19.296Z</updated>
+    <updated>2026-07-02T01:47:49.404Z</updated>
   </entry>
   <entry>
     <author>
@@ -269,23 +274,6 @@ spring-cloud-starter-gateway<br />
     <author>
       <name>彤哥</name>
     </author>
-    <category term="Operations" scheme="https://1124839262.github.io/categories/Operations/"/>
-    <category term="AI-generated" scheme="https://1124839262.github.io/categories/Operations/AI-generated/"/>
-    <category term="monitoring" scheme="https://1124839262.github.io/tags/monitoring/"/>
-    <id>https://1124839262.github.io/2026/03/25/grafana/</id>
-    <link href="https://1124839262.github.io/2026/03/25/grafana/"/>
-    <published>2026-03-25T01:26:35.000Z</published>
-    <summary>
-      <![CDATA[<h3 id="grafana"><a class="markdownIt-Anchor" href="#grafana"></a> Grafana</h3>
-<p><strong>Grafana</strong> is an open-source platform]]>
-    </summary>
-    <title>grafana</title>
-    <updated>2026-03-25T01:33:32.680Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
     <category term="运维" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/"/>
     <category term="AI生成" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/AI%E7%94%9F%E6%88%90/"/>
     <category term="监控" scheme="https://1124839262.github.io/tags/%E7%9B%91%E6%8E%A7/"/>
@@ -298,6 +286,23 @@ spring-cloud-starter-gateway<br />
     </summary>
     <title>grafana</title>
     <updated>2026-03-25T01:29:47.555Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="Operations" scheme="https://1124839262.github.io/categories/Operations/"/>
+    <category term="AI-generated" scheme="https://1124839262.github.io/categories/Operations/AI-generated/"/>
+    <category term="monitoring" scheme="https://1124839262.github.io/tags/monitoring/"/>
+    <id>https://1124839262.github.io/2026/03/25/grafana/</id>
+    <link href="https://1124839262.github.io/2026/03/25/grafana/"/>
+    <published>2026-03-25T01:26:35.000Z</published>
+    <summary>
+      <![CDATA[<h3 id="grafana"><a class="markdownIt-Anchor" href="#grafana"></a> Grafana</h3>
+<p><strong>Grafana</strong> is an open-source platform]]>
+    </summary>
+    <title>grafana</title>
+    <updated>2026-03-25T01:33:32.680Z</updated>
   </entry>
   <entry>
     <author>
