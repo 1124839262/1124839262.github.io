@@ -11,14 +11,31 @@
   <rights>All rights reserved 2026, 彤哥</rights>
   <subtitle>rednoob</subtitle>
   <title>彤哥的个人博客</title>
-  <updated>2026-07-02T01:21:35.140Z</updated>
+  <updated>2026-07-03T06:01:56.071Z</updated>
   <entry>
     <author>
       <name>彤哥</name>
     </author>
     <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
-    <category term="算法" scheme="https://1124839262.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="算法" scheme="https://1124839262.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    <id>https://1124839262.github.io/2026/07/02/seckill-system/</id>
+    <link href="https://1124839262.github.io/2026/07/02/seckill-system/"/>
+    <published>2026-07-02T04:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="overview"><a class="markdownIt-Anchor" href="#overview"></a> Overview</h2>
+<p>A seckill (flash sale) system is a typical]]>
+    </summary>
+    <title>Seckill System Design</title>
+    <updated>2026-07-03T06:01:56.071Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="算法" scheme="https://1124839262.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     <id>https://1124839262.github.io/2026/07/02/seckill-system/</id>
     <link href="https://1124839262.github.io/2026/07/02/seckill-system/"/>
     <published>2026-07-02T04:00:00.000Z</published>
@@ -28,6 +45,22 @@
     </summary>
     <title>秒杀系统设计</title>
     <updated>2026-07-02T01:21:35.140Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <id>https://1124839262.github.io/2026/06/24/ExpiredOrdersClose/</id>
+    <link href="https://1124839262.github.io/2026/06/24/ExpiredOrdersClose/"/>
+    <published>2026-06-24T07:32:50.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="overview"><a class="markdownIt-Anchor" href="#overview"></a> Overview</h2>
+<p>Expired order closing is a common business]]>
+    </summary>
+    <title>Expired Order Closing</title>
+    <updated>2026-07-03T06:02:37.213Z</updated>
   </entry>
   <entry>
     <author>
@@ -71,6 +104,22 @@
     </author>
     <category term="算法" scheme="https://1124839262.github.io/categories/%E7%AE%97%E6%B3%95/"/>
     <category term="算法" scheme="https://1124839262.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    <id>https://1124839262.github.io/2026/05/27/Snowflake/</id>
+    <link href="https://1124839262.github.io/2026/05/27/Snowflake/"/>
+    <published>2026-05-27T00:31:37.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="snowflake-algorithm"><a class="markdownIt-Anchor" href="#snowflake-algorithm"></a> Snowflake Algorithm</h2>
+<p>The Snowflake]]>
+    </summary>
+    <title>Snowflake Algorithm</title>
+    <updated>2026-07-03T05:59:49.810Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="算法" scheme="https://1124839262.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://1124839262.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     <id>https://1124839262.github.io/2026/05/25/binarySearch/</id>
     <link href="https://1124839262.github.io/2026/05/25/binarySearch/"/>
     <published>2026-05-25T05:52:08.000Z</published>
@@ -79,6 +128,22 @@
     </summary>
     <title>二分查找法</title>
     <updated>2026-05-25T06:24:09.630Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="算法" scheme="https://1124839262.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://1124839262.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    <id>https://1124839262.github.io/2026/05/25/binarySearch/</id>
+    <link href="https://1124839262.github.io/2026/05/25/binarySearch/"/>
+    <published>2026-05-25T05:52:08.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="binary-search"><a class="markdownIt-Anchor" href="#binary-search"></a> Binary Search</h2>
+<p>Binary search, also known as]]>
+    </summary>
+    <title>Binary Search</title>
+    <updated>2026-07-03T05:57:45.478Z</updated>
   </entry>
   <entry>
     <author>
@@ -100,6 +165,19 @@
     <author>
       <name>彤哥</name>
     </author>
+    <id>https://1124839262.github.io/2026/05/22/ShardingJdbc/</id>
+    <link href="https://1124839262.github.io/2026/05/22/ShardingJdbc/"/>
+    <published>2026-05-22T05:37:02.000Z</published>
+    <summary>
+      <![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span]]>
+    </summary>
+    <title>ShardingJDBC Sharding Algorithm</title>
+    <updated>2026-07-03T06:01:25.151Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
     <category term="java" scheme="https://1124839262.github.io/categories/java/"/>
     <category term="java maven" scheme="https://1124839262.github.io/tags/java-maven/"/>
     <id>https://1124839262.github.io/2026/05/15/maven-jar-plugin/</id>
@@ -116,6 +194,24 @@
     <author>
       <name>彤哥</name>
     </author>
+    <category term="java" scheme="https://1124839262.github.io/categories/java/"/>
+    <category term="java maven" scheme="https://1124839262.github.io/tags/java-maven/"/>
+    <id>https://1124839262.github.io/2026/05/15/maven-jar-plugin/</id>
+    <link href="https://1124839262.github.io/2026/05/15/maven-jar-plugin/"/>
+    <published>2026-05-15T07:18:56.000Z</published>
+    <summary>
+      <![CDATA[<ol>
+<li>Packaging JAR files, source, and docs</li>
+</ol>
+<figure class="highlight xml"><table><tr><td class="gutter"><pre><span]]>
+    </summary>
+    <title>Maven Packaging</title>
+    <updated>2026-07-03T05:57:24.614Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
     <id>https://1124839262.github.io/2026/04/23/wordedit/</id>
     <link href="https://1124839262.github.io/2026/04/23/wordedit/"/>
     <published>2026-04-23T02:25:48.000Z</published>
@@ -124,6 +220,34 @@
     </summary>
     <title>wordedit</title>
     <updated>2026-04-23T02:32:31.702Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <id>https://1124839262.github.io/2026/04/23/wordedit/</id>
+    <link href="https://1124839262.github.io/2026/04/23/wordedit/"/>
+    <published>2026-04-23T02:25:48.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="word-editor-component"><a class="markdownIt-Anchor" href="#word-editor-component"></a> Word Editor Component</h2>
+<p>A Vue-based]]>
+    </summary>
+    <title>Word Editor</title>
+    <updated>2026-07-03T06:00:22.430Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <id>https://1124839262.github.io/2026/04/22/uniapp01/</id>
+    <link href="https://1124839262.github.io/2026/04/22/uniapp01/"/>
+    <published>2026-04-22T00:42:11.000Z</published>
+    <summary>
+      <![CDATA[<p>UniApp is a framework that allows business logic code to run on WeChat Mini Programs, H5, App, and other platforms.</p>
+<p>Recently I]]>
+    </summary>
+    <title>UniApp Learning</title>
+    <updated>2026-07-03T06:00:46.829Z</updated>
   </entry>
   <entry>
     <author>
@@ -156,6 +280,35 @@
     <author>
       <name>彤哥</name>
     </author>
+    <id>https://1124839262.github.io/2026/04/18/ai01/</id>
+    <link href="https://1124839262.github.io/2026/04/18/ai01/"/>
+    <published>2026-04-18T10:05:58.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="spring-ai-learning-notes"><a class="markdownIt-Anchor" href="#spring-ai-learning-notes"></a> Spring AI Learning]]>
+    </summary>
+    <title>Spring AI Learning Notes</title>
+    <updated>2026-07-03T06:00:06.615Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <id>https://1124839262.github.io/2026/04/17/openresty/</id>
+    <link href="https://1124839262.github.io/2026/04/17/openresty/"/>
+    <published>2026-04-17T05:00:09.000Z</published>
+    <summary>
+      <![CDATA[<p>How to use OpenResty?</p>
+<p>After installation, it works the same as regular Nginx.<br />
+Specific configuration is as follows:</p>
+<h1]]>
+    </summary>
+    <title>How to Use OpenResty</title>
+    <updated>2026-07-03T05:59:26.244Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
     <id>https://1124839262.github.io/2026/04/17/openresty/</id>
     <link href="https://1124839262.github.io/2026/04/17/openresty/"/>
     <published>2026-04-17T05:00:09.000Z</published>
@@ -167,173 +320,5 @@
     </summary>
     <title>openresty 如何使用</title>
     <updated>2026-04-18T08:18:41.901Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <id>https://1124839262.github.io/2026/04/09/javaPublish/</id>
-    <link href="https://1124839262.github.io/2026/04/09/javaPublish/"/>
-    <published>2026-04-09T08:51:42.000Z</published>
-    <summary>
-      <![CDATA[<p>项目启动 通过jar方式启动</p>
-<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span]]>
-    </summary>
-    <title>项目启动jar</title>
-    <updated>2026-04-09T08:53:36.775Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
-    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    <id>https://1124839262.github.io/2026/04/03/daily260403/</id>
-    <link href="https://1124839262.github.io/2026/04/03/daily260403/"/>
-    <published>2026-04-03T00:09:18.000Z</published>
-    <summary>
-      <![CDATA[<p>项目中使用gateway做路由<br />
-所以我学习了一下spring cloud gateway<br />
-gateway是一个进行路由的框架<br />
-spring-cloud-starter-gateway<br />
-搭配hystrix做断路器,]]>
-    </summary>
-    <title>daily260403</title>
-    <updated>2026-04-03T00:39:20.497Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="开发" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/"/>
-    <category term="Word" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/Word/"/>
-    <category term="java" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/Word/java/"/>
-    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
-    <category term="Word" scheme="https://1124839262.github.io/tags/Word/"/>
-    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
-    <id>https://1124839262.github.io/2026/03/26/poi-tl/</id>
-    <link href="https://1124839262.github.io/2026/03/26/poi-tl/"/>
-    <published>2026-03-26T08:29:42.000Z</published>
-    <summary>
-      <![CDATA[<h1 id="poi-tl-documentation"><a class="markdownIt-Anchor" href="#poi-tl-documentation"></a> Poi-tl Documentation</h1>
-<blockquote>
-<h2]]>
-    </summary>
-    <title>poi-tl</title>
-    <updated>2026-03-26T08:45:25.737Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="数据库" scheme="https://1124839262.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    <category term="数据库" scheme="https://1124839262.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    <id>https://1124839262.github.io/2026/03/25/dynamic-datasorce/</id>
-    <link href="https://1124839262.github.io/2026/03/25/dynamic-datasorce/"/>
-    <published>2026-03-25T03:26:13.000Z</published>
-    <summary>
-      <![CDATA[<h1 id="dynamic-datasource文档"><a class="markdownIt-Anchor" href="#dynamic-datasource文档"></a> dynamic-datasource文档</h1>
-<hr]]>
-    </summary>
-    <title>dynamic-datasorce</title>
-    <updated>2026-03-26T00:12:51.329Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
-    <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
-    <id>https://1124839262.github.io/2026/03/25/daily260325_1/</id>
-    <link href="https://1124839262.github.io/2026/03/25/daily260325_1/"/>
-    <published>2026-03-25T02:24:09.000Z</published>
-    <summary>
-      <![CDATA[<h3 id="数据库大表优化"><a class="markdownIt-Anchor" href="#数据库大表优化"></a> 数据库大表优化</h3>
-<h4]]>
-    </summary>
-    <title>数据库大表优化</title>
-    <updated>2026-03-25T02:41:53.484Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
-    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    <id>https://1124839262.github.io/2026/03/25/daily260325/</id>
-    <link href="https://1124839262.github.io/2026/03/25/daily260325/"/>
-    <published>2026-03-25T01:34:22.000Z</published>
-    <summary>
-      <![CDATA[<h3 id="最近学习"><a class="markdownIt-Anchor" href="#最近学习"></a> 最近学习</h3>
-<p>学习了监控知识, 项目中监控用的prometheus, 然后自己也部署了一个单节点的prometheus进行学习<br]]>
-    </summary>
-    <title>日常总结</title>
-    <updated>2026-03-25T02:41:53.479Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="运维" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/"/>
-    <category term="AI生成" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/AI%E7%94%9F%E6%88%90/"/>
-    <category term="监控" scheme="https://1124839262.github.io/tags/%E7%9B%91%E6%8E%A7/"/>
-    <id>https://1124839262.github.io/2026/03/25/grafana/</id>
-    <link href="https://1124839262.github.io/2026/03/25/grafana/"/>
-    <published>2026-03-25T01:26:35.000Z</published>
-    <summary>
-      <![CDATA[<h3 id="grafana"><a class="markdownIt-Anchor" href="#grafana"></a> grafana</h3>
-<p><strong>Grafana</strong>]]>
-    </summary>
-    <title>grafana</title>
-    <updated>2026-03-25T01:29:47.555Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="Operations" scheme="https://1124839262.github.io/categories/Operations/"/>
-    <category term="AI-generated" scheme="https://1124839262.github.io/categories/Operations/AI-generated/"/>
-    <category term="monitoring" scheme="https://1124839262.github.io/tags/monitoring/"/>
-    <id>https://1124839262.github.io/2026/03/25/grafana/</id>
-    <link href="https://1124839262.github.io/2026/03/25/grafana/"/>
-    <published>2026-03-25T01:26:35.000Z</published>
-    <summary>
-      <![CDATA[<h3 id="grafana"><a class="markdownIt-Anchor" href="#grafana"></a> Grafana</h3>
-<p><strong>Grafana</strong> is an open-source platform]]>
-    </summary>
-    <title>grafana</title>
-    <updated>2026-03-25T01:33:32.680Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="运维" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/"/>
-    <category term="AI生成" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/AI%E7%94%9F%E6%88%90/"/>
-    <category term="监控" scheme="https://1124839262.github.io/tags/%E7%9B%91%E6%8E%A7/"/>
-    <id>https://1124839262.github.io/2026/03/23/node_exporter/</id>
-    <link href="https://1124839262.github.io/2026/03/23/node_exporter/"/>
-    <published>2026-03-23T08:24:54.000Z</published>
-    <summary>
-      <![CDATA[<h1 id="linux-上安装与配置-node_exporter"><a class="markdownIt-Anchor" href="#linux-上安装与配置-node_exporter"></a> LINUX 上安装与配置]]>
-    </summary>
-    <title>2, node_exporter 的安装与配置</title>
-    <updated>2026-03-23T08:55:32.075Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="运维" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/"/>
-    <category term="AI生成" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/AI%E7%94%9F%E6%88%90/"/>
-    <category term="监控" scheme="https://1124839262.github.io/tags/%E7%9B%91%E6%8E%A7/"/>
-    <id>https://1124839262.github.io/2026/03/23/node_exporter/</id>
-    <link href="https://1124839262.github.io/2026/03/23/node_exporter/"/>
-    <published>2026-03-23T08:24:54.000Z</published>
-    <summary>
-      <![CDATA[<h1 id="installing-and-configuring-node_exporter-on-linux"><a class="markdownIt-Anchor"]]>
-    </summary>
-    <title>2, Installation and Configuration of node_exporter</title>
-    <updated>2026-03-23T08:55:32.061Z</updated>
   </entry>
 </feed>
