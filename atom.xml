@@ -34,6 +34,22 @@
     </author>
     <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
     <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="运维" scheme="https://1124839262.github.io/tags/%E8%BF%90%E7%BB%B4/"/>
+    <id>https://1124839262.github.io/2026/07/03/openresty-rate-limit/</id>
+    <link href="https://1124839262.github.io/2026/07/03/openresty-rate-limit/"/>
+    <published>2026-07-03T06:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="why-rate-limiting-is-needed"><a class="markdownIt-Anchor" href="#why-rate-limiting-is-needed"></a> Why Rate Limiting is]]>
+    </summary>
+    <title>OpenResty Rate Limiting Strategies and Algorithm Implementation</title>
+    <updated>2026-07-03T06:59:09.302Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
     <category term="算法" scheme="https://1124839262.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     <id>https://1124839262.github.io/2026/07/02/seckill-system/</id>
     <link href="https://1124839262.github.io/2026/07/02/seckill-system/"/>
@@ -140,10 +156,11 @@
     <link href="https://1124839262.github.io/2026/05/25/binarySearch/"/>
     <published>2026-05-25T05:52:08.000Z</published>
     <summary>
-      <![CDATA[<h2 id="二分查找法"><a class="markdownIt-Anchor" href="#二分查找法"></a>]]>
+      <![CDATA[<h2 id="binary-search"><a class="markdownIt-Anchor" href="#binary-search"></a> Binary Search</h2>
+<p>Binary search, also known as]]>
     </summary>
-    <title>二分查找法</title>
-    <updated>2026-05-25T06:24:09.630Z</updated>
+    <title>Binary Search</title>
+    <updated>2026-07-03T05:57:45.478Z</updated>
   </entry>
   <entry>
     <author>
@@ -155,11 +172,10 @@
     <link href="https://1124839262.github.io/2026/05/25/binarySearch/"/>
     <published>2026-05-25T05:52:08.000Z</published>
     <summary>
-      <![CDATA[<h2 id="binary-search"><a class="markdownIt-Anchor" href="#binary-search"></a> Binary Search</h2>
-<p>Binary search, also known as]]>
+      <![CDATA[<h2 id="二分查找法"><a class="markdownIt-Anchor" href="#二分查找法"></a>]]>
     </summary>
-    <title>Binary Search</title>
-    <updated>2026-07-03T05:57:45.478Z</updated>
+    <title>二分查找法</title>
+    <updated>2026-05-25T06:24:09.630Z</updated>
   </entry>
   <entry>
     <author>
@@ -304,21 +320,5 @@
     </summary>
     <title>Spring AI Learning Notes</title>
     <updated>2026-07-03T06:00:06.615Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <id>https://1124839262.github.io/2026/04/17/openresty/</id>
-    <link href="https://1124839262.github.io/2026/04/17/openresty/"/>
-    <published>2026-04-17T05:00:09.000Z</published>
-    <summary>
-      <![CDATA[<p>openresty 怎么使用？</p>
-<p>安装完成之后，和普通 nginx 使用一样。<br />
-具体配置如下</p>
-<h1 id="配置1"><a class="markdownIt-Anchor" href="#配置1"></a>]]>
-    </summary>
-    <title>openresty 如何使用</title>
-    <updated>2026-04-18T08:18:41.901Z</updated>
   </entry>
 </feed>
