@@ -11,7 +11,23 @@
   <rights>All rights reserved 2026, 彤哥</rights>
   <subtitle>rednoob</subtitle>
   <title>彤哥的个人博客</title>
-  <updated>2026-07-02T01:21:35.140Z</updated>
+  <updated>2026-07-03T06:52:34.595Z</updated>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="运维" scheme="https://1124839262.github.io/tags/%E8%BF%90%E7%BB%B4/"/>
+    <id>https://1124839262.github.io/2026/07/03/openresty-rate-limit/</id>
+    <link href="https://1124839262.github.io/2026/07/03/openresty-rate-limit/"/>
+    <published>2026-07-03T06:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="为什么需要限流"><a class="markdownIt-Anchor" href="#为什么需要限流"></a>]]>
+    </summary>
+    <title>OpenResty 限流策略与算法实现</title>
+    <updated>2026-07-03T06:52:34.595Z</updated>
+  </entry>
   <entry>
     <author>
       <name>彤哥</name>
@@ -90,11 +106,13 @@
     <link href="https://1124839262.github.io/2026/05/27/Snowflake/"/>
     <published>2026-05-27T00:31:37.000Z</published>
     <summary>
-      <![CDATA[<h2 id="snowflake-algorithm"><a class="markdownIt-Anchor" href="#snowflake-algorithm"></a> Snowflake Algorithm</h2>
-<p>The Snowflake]]>
+      <![CDATA[<p>雪花算法是推特公司开源的一种分布式ID生成算法，用于在高并发场景下生成全局唯一的ID。</p>
+<p>雪花算法结构：<br />
+1bit（符号位）+ 41bit（时间戳）+ 10bit（机器ID）+ 12bit（序列号）</p>
+<figure]]>
     </summary>
-    <title>Snowflake Algorithm</title>
-    <updated>2026-07-03T05:59:49.810Z</updated>
+    <title>雪花算法</title>
+    <updated>2026-05-27T01:18:45.018Z</updated>
   </entry>
   <entry>
     <author>
@@ -106,13 +124,11 @@
     <link href="https://1124839262.github.io/2026/05/27/Snowflake/"/>
     <published>2026-05-27T00:31:37.000Z</published>
     <summary>
-      <![CDATA[<p>雪花算法是推特公司开源的一种分布式ID生成算法，用于在高并发场景下生成全局唯一的ID。</p>
-<p>雪花算法结构：<br />
-1bit（符号位）+ 41bit（时间戳）+ 10bit（机器ID）+ 12bit（序列号）</p>
-<figure]]>
+      <![CDATA[<h2 id="snowflake-algorithm"><a class="markdownIt-Anchor" href="#snowflake-algorithm"></a> Snowflake Algorithm</h2>
+<p>The Snowflake]]>
     </summary>
-    <title>雪花算法</title>
-    <updated>2026-05-27T01:18:45.018Z</updated>
+    <title>Snowflake Algorithm</title>
+    <updated>2026-07-03T05:59:49.810Z</updated>
   </entry>
   <entry>
     <author>
@@ -153,10 +169,13 @@
     <link href="https://1124839262.github.io/2026/05/22/ShardingJdbc/"/>
     <published>2026-05-22T05:37:02.000Z</published>
     <summary>
-      <![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span]]>
+      <![CDATA[<p>┌─────────────────────────────────────────┐<br />
+│  核心功能：基于一致性哈希的复合键分片算法  │<br />
+├─────────────────────────────────────────┤<br />
+│]]>
     </summary>
-    <title>ShardingJDBC Sharding Algorithm</title>
-    <updated>2026-07-03T06:01:25.151Z</updated>
+    <title>ShardingJdbc分片算法</title>
+    <updated>2026-05-22T06:07:18.403Z</updated>
   </entry>
   <entry>
     <author>
@@ -166,13 +185,10 @@
     <link href="https://1124839262.github.io/2026/05/22/ShardingJdbc/"/>
     <published>2026-05-22T05:37:02.000Z</published>
     <summary>
-      <![CDATA[<p>┌─────────────────────────────────────────┐<br />
-│  核心功能：基于一致性哈希的复合键分片算法  │<br />
-├─────────────────────────────────────────┤<br />
-│]]>
+      <![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span]]>
     </summary>
-    <title>ShardingJdbc分片算法</title>
-    <updated>2026-05-22T06:07:18.403Z</updated>
+    <title>ShardingJDBC Sharding Algorithm</title>
+    <updated>2026-07-03T06:01:25.151Z</updated>
   </entry>
   <entry>
     <author>
@@ -288,22 +304,6 @@
     </summary>
     <title>Spring AI Learning Notes</title>
     <updated>2026-07-03T06:00:06.615Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <id>https://1124839262.github.io/2026/04/17/openresty/</id>
-    <link href="https://1124839262.github.io/2026/04/17/openresty/"/>
-    <published>2026-04-17T05:00:09.000Z</published>
-    <summary>
-      <![CDATA[<p>How to use OpenResty?</p>
-<p>After installation, it works the same as regular Nginx.<br />
-Specific configuration is as follows:</p>
-<h1]]>
-    </summary>
-    <title>How to Use OpenResty</title>
-    <updated>2026-07-03T05:59:26.244Z</updated>
   </entry>
   <entry>
     <author>
