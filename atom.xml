@@ -11,7 +11,39 @@
   <rights>All rights reserved 2026, 彤哥</rights>
   <subtitle>rednoob</subtitle>
   <title>彤哥的个人博客</title>
-  <updated>2026-07-03T06:52:34.595Z</updated>
+  <updated>2026-07-06T07:20:02.009Z</updated>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="Java" scheme="https://1124839262.github.io/categories/Java/"/>
+    <category term="数据结构" scheme="https://1124839262.github.io/categories/Java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <id>https://1124839262.github.io/2026/07/06/HashMap-List-Tree/</id>
+    <link href="https://1124839262.github.io/2026/07/06/HashMap-List-Tree/"/>
+    <published>2026-07-06T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="一-hashmap-概述"><a class="markdownIt-Anchor" href="#一-hashmap-概述"></a> 一、HashMap 概述</h2>
+<p>HashMap 是 Java 中最常用的数据结构之一，它基于哈希表实现，提供了]]>
+    </summary>
+    <title>Java HashMap 深度解析：链表与红黑树</title>
+    <updated>2026-07-06T07:20:02.009Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="Java" scheme="https://1124839262.github.io/categories/Java/"/>
+    <category term="Data Structure" scheme="https://1124839262.github.io/categories/Java/Data-Structure/"/>
+    <id>https://1124839262.github.io/2026/07/06/HashMap-List-Tree/</id>
+    <link href="https://1124839262.github.io/2026/07/06/HashMap-List-Tree/"/>
+    <published>2026-07-06T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="1-hashmap-overview"><a class="markdownIt-Anchor" href="#1-hashmap-overview"></a> 1. HashMap Overview</h2>
+<p>HashMap is one of the]]>
+    </summary>
+    <title>Java HashMap Deep Dive：Linked Lists and Red-Black Trees</title>
+    <updated>2026-07-06T07:23:06.855Z</updated>
+  </entry>
   <entry>
     <author>
       <name>彤哥</name>
@@ -55,11 +87,11 @@
     <link href="https://1124839262.github.io/2026/07/02/seckill-system/"/>
     <published>2026-07-02T04:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="秒杀系统概述"><a class="markdownIt-Anchor" href="#秒杀系统概述"></a> 秒杀系统概述</h2>
-<p>秒杀场景的核心特征：<strong>短时间、高并发、库存有限</strong>。典型场景如 618]]>
+      <![CDATA[<h2 id="overview"><a class="markdownIt-Anchor" href="#overview"></a> Overview</h2>
+<p>A seckill (flash sale) system is a typical]]>
     </summary>
-    <title>秒杀系统设计</title>
-    <updated>2026-07-02T01:21:35.140Z</updated>
+    <title>Seckill System Design</title>
+    <updated>2026-07-03T06:01:56.071Z</updated>
   </entry>
   <entry>
     <author>
@@ -72,11 +104,11 @@
     <link href="https://1124839262.github.io/2026/07/02/seckill-system/"/>
     <published>2026-07-02T04:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="overview"><a class="markdownIt-Anchor" href="#overview"></a> Overview</h2>
-<p>A seckill (flash sale) system is a typical]]>
+      <![CDATA[<h2 id="秒杀系统概述"><a class="markdownIt-Anchor" href="#秒杀系统概述"></a> 秒杀系统概述</h2>
+<p>秒杀场景的核心特征：<strong>短时间、高并发、库存有限</strong>。典型场景如 618]]>
     </summary>
-    <title>Seckill System Design</title>
-    <updated>2026-07-03T06:01:56.071Z</updated>
+    <title>秒杀系统设计</title>
+    <updated>2026-07-02T01:21:35.140Z</updated>
   </entry>
   <entry>
     <author>
@@ -122,13 +154,11 @@
     <link href="https://1124839262.github.io/2026/05/27/Snowflake/"/>
     <published>2026-05-27T00:31:37.000Z</published>
     <summary>
-      <![CDATA[<p>雪花算法是推特公司开源的一种分布式ID生成算法，用于在高并发场景下生成全局唯一的ID。</p>
-<p>雪花算法结构：<br />
-1bit（符号位）+ 41bit（时间戳）+ 10bit（机器ID）+ 12bit（序列号）</p>
-<figure]]>
+      <![CDATA[<h2 id="snowflake-algorithm"><a class="markdownIt-Anchor" href="#snowflake-algorithm"></a> Snowflake Algorithm</h2>
+<p>The Snowflake]]>
     </summary>
-    <title>雪花算法</title>
-    <updated>2026-05-27T01:18:45.018Z</updated>
+    <title>Snowflake Algorithm</title>
+    <updated>2026-07-03T05:59:49.810Z</updated>
   </entry>
   <entry>
     <author>
@@ -140,11 +170,13 @@
     <link href="https://1124839262.github.io/2026/05/27/Snowflake/"/>
     <published>2026-05-27T00:31:37.000Z</published>
     <summary>
-      <![CDATA[<h2 id="snowflake-algorithm"><a class="markdownIt-Anchor" href="#snowflake-algorithm"></a> Snowflake Algorithm</h2>
-<p>The Snowflake]]>
+      <![CDATA[<p>雪花算法是推特公司开源的一种分布式ID生成算法，用于在高并发场景下生成全局唯一的ID。</p>
+<p>雪花算法结构：<br />
+1bit（符号位）+ 41bit（时间戳）+ 10bit（机器ID）+ 12bit（序列号）</p>
+<figure]]>
     </summary>
-    <title>Snowflake Algorithm</title>
-    <updated>2026-07-03T05:59:49.810Z</updated>
+    <title>雪花算法</title>
+    <updated>2026-05-27T01:18:45.018Z</updated>
   </entry>
   <entry>
     <author>
@@ -216,11 +248,13 @@
     <link href="https://1124839262.github.io/2026/05/15/maven-jar-plugin/"/>
     <published>2026-05-15T07:18:56.000Z</published>
     <summary>
-      <![CDATA[<p>1, 打包jar文件, source, doc</p>
-<figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span]]>
+      <![CDATA[<ol>
+<li>Packaging JAR files, source, and docs</li>
+</ol>
+<figure class="highlight xml"><table><tr><td class="gutter"><pre><span]]>
     </summary>
-    <title>maven打包</title>
-    <updated>2026-05-15T07:41:55.175Z</updated>
+    <title>Maven Packaging</title>
+    <updated>2026-07-03T05:57:24.614Z</updated>
   </entry>
   <entry>
     <author>
@@ -232,13 +266,11 @@
     <link href="https://1124839262.github.io/2026/05/15/maven-jar-plugin/"/>
     <published>2026-05-15T07:18:56.000Z</published>
     <summary>
-      <![CDATA[<ol>
-<li>Packaging JAR files, source, and docs</li>
-</ol>
-<figure class="highlight xml"><table><tr><td class="gutter"><pre><span]]>
+      <![CDATA[<p>1, 打包jar文件, source, doc</p>
+<figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span]]>
     </summary>
-    <title>Maven Packaging</title>
-    <updated>2026-07-03T05:57:24.614Z</updated>
+    <title>maven打包</title>
+    <updated>2026-05-15T07:41:55.175Z</updated>
   </entry>
   <entry>
     <author>
@@ -293,32 +325,5 @@
     </summary>
     <title>uniapp学习</title>
     <updated>2026-04-23T02:15:18.284Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <id>https://1124839262.github.io/2026/04/18/ai01/</id>
-    <link href="https://1124839262.github.io/2026/04/18/ai01/"/>
-    <published>2026-04-18T10:05:58.000Z</published>
-    <summary>
-      <![CDATA[<p>最近学习了springai的相关内容，记录一下。<br />
-我的项目地址 <a]]>
-    </summary>
-    <title>springai的学习笔记</title>
-    <updated>2026-04-18T10:09:30.266Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <id>https://1124839262.github.io/2026/04/18/ai01/</id>
-    <link href="https://1124839262.github.io/2026/04/18/ai01/"/>
-    <published>2026-04-18T10:05:58.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="spring-ai-learning-notes"><a class="markdownIt-Anchor" href="#spring-ai-learning-notes"></a> Spring AI Learning]]>
-    </summary>
-    <title>Spring AI Learning Notes</title>
-    <updated>2026-07-03T06:00:06.615Z</updated>
   </entry>
 </feed>
