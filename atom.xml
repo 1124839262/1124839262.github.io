@@ -11,7 +11,41 @@
   <rights>All rights reserved 2026, 彤哥</rights>
   <subtitle>rednoob</subtitle>
   <title>彤哥的个人博客</title>
-  <updated>2026-07-06T07:20:02.009Z</updated>
+  <updated>2026-07-09T06:49:17.552Z</updated>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="运维" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/"/>
+    <category term="运维" scheme="https://1124839262.github.io/tags/%E8%BF%90%E7%BB%B4/"/>
+    <category term="Redis" scheme="https://1124839262.github.io/tags/Redis/"/>
+    <id>https://1124839262.github.io/2026/07/09/redis-deploy/</id>
+    <link href="https://1124839262.github.io/2026/07/09/redis-deploy/"/>
+    <published>2026-07-09T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="概述"><a class="markdownIt-Anchor" href="#概述"></a> 概述</h2>
+<p>Redis]]>
+    </summary>
+    <title>Redis 部署实战：一主两从与集群模式</title>
+    <updated>2026-07-09T06:49:17.552Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="DevOps" scheme="https://1124839262.github.io/categories/DevOps/"/>
+    <category term="Redis" scheme="https://1124839262.github.io/tags/Redis/"/>
+    <category term="DevOps" scheme="https://1124839262.github.io/tags/DevOps/"/>
+    <id>https://1124839262.github.io/2026/07/09/redis-deploy/</id>
+    <link href="https://1124839262.github.io/2026/07/09/redis-deploy/"/>
+    <published>2026-07-09T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="overview"><a class="markdownIt-Anchor" href="#overview"></a> Overview</h2>
+<p>In production environments, Redis typically does not]]>
+    </summary>
+    <title>Redis Deployment in Practice：Master-Slave Replication and Cluster Mode</title>
+    <updated>2026-07-09T06:51:09.881Z</updated>
+  </entry>
   <entry>
     <author>
       <name>彤哥</name>
@@ -55,10 +89,10 @@
     <link href="https://1124839262.github.io/2026/07/03/openresty-rate-limit/"/>
     <published>2026-07-03T06:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="为什么需要限流"><a class="markdownIt-Anchor" href="#为什么需要限流"></a>]]>
+      <![CDATA[<h2 id="why-rate-limiting-is-needed"><a class="markdownIt-Anchor" href="#why-rate-limiting-is-needed"></a> Why Rate Limiting is]]>
     </summary>
-    <title>OpenResty 限流策略与算法实现</title>
-    <updated>2026-07-03T06:52:34.595Z</updated>
+    <title>OpenResty Rate Limiting Strategies and Algorithm Implementation</title>
+    <updated>2026-07-03T06:59:09.302Z</updated>
   </entry>
   <entry>
     <author>
@@ -71,27 +105,10 @@
     <link href="https://1124839262.github.io/2026/07/03/openresty-rate-limit/"/>
     <published>2026-07-03T06:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="why-rate-limiting-is-needed"><a class="markdownIt-Anchor" href="#why-rate-limiting-is-needed"></a> Why Rate Limiting is]]>
+      <![CDATA[<h2 id="为什么需要限流"><a class="markdownIt-Anchor" href="#为什么需要限流"></a>]]>
     </summary>
-    <title>OpenResty Rate Limiting Strategies and Algorithm Implementation</title>
-    <updated>2026-07-03T06:59:09.302Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
-    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
-    <category term="算法" scheme="https://1124839262.github.io/tags/%E7%AE%97%E6%B3%95/"/>
-    <id>https://1124839262.github.io/2026/07/02/seckill-system/</id>
-    <link href="https://1124839262.github.io/2026/07/02/seckill-system/"/>
-    <published>2026-07-02T04:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="overview"><a class="markdownIt-Anchor" href="#overview"></a> Overview</h2>
-<p>A seckill (flash sale) system is a typical]]>
-    </summary>
-    <title>Seckill System Design</title>
-    <updated>2026-07-03T06:01:56.071Z</updated>
+    <title>OpenResty 限流策略与算法实现</title>
+    <updated>2026-07-03T06:52:34.595Z</updated>
   </entry>
   <entry>
     <author>
@@ -109,6 +126,23 @@
     </summary>
     <title>秒杀系统设计</title>
     <updated>2026-07-02T01:21:35.140Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="算法" scheme="https://1124839262.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    <id>https://1124839262.github.io/2026/07/02/seckill-system/</id>
+    <link href="https://1124839262.github.io/2026/07/02/seckill-system/"/>
+    <published>2026-07-02T04:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="overview"><a class="markdownIt-Anchor" href="#overview"></a> Overview</h2>
+<p>A seckill (flash sale) system is a typical]]>
+    </summary>
+    <title>Seckill System Design</title>
+    <updated>2026-07-03T06:01:56.071Z</updated>
   </entry>
   <entry>
     <author>
@@ -154,6 +188,24 @@
     <link href="https://1124839262.github.io/2026/05/27/Snowflake/"/>
     <published>2026-05-27T00:31:37.000Z</published>
     <summary>
+      <![CDATA[<p>雪花算法是推特公司开源的一种分布式ID生成算法，用于在高并发场景下生成全局唯一的ID。</p>
+<p>雪花算法结构：<br />
+1bit（符号位）+ 41bit（时间戳）+ 10bit（机器ID）+ 12bit（序列号）</p>
+<figure]]>
+    </summary>
+    <title>雪花算法</title>
+    <updated>2026-05-27T01:18:45.018Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="算法" scheme="https://1124839262.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://1124839262.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    <id>https://1124839262.github.io/2026/05/27/Snowflake/</id>
+    <link href="https://1124839262.github.io/2026/05/27/Snowflake/"/>
+    <published>2026-05-27T00:31:37.000Z</published>
+    <summary>
       <![CDATA[<h2 id="snowflake-algorithm"><a class="markdownIt-Anchor" href="#snowflake-algorithm"></a> Snowflake Algorithm</h2>
 <p>The Snowflake]]>
     </summary>
@@ -166,17 +218,14 @@
     </author>
     <category term="算法" scheme="https://1124839262.github.io/categories/%E7%AE%97%E6%B3%95/"/>
     <category term="算法" scheme="https://1124839262.github.io/tags/%E7%AE%97%E6%B3%95/"/>
-    <id>https://1124839262.github.io/2026/05/27/Snowflake/</id>
-    <link href="https://1124839262.github.io/2026/05/27/Snowflake/"/>
-    <published>2026-05-27T00:31:37.000Z</published>
+    <id>https://1124839262.github.io/2026/05/25/binarySearch/</id>
+    <link href="https://1124839262.github.io/2026/05/25/binarySearch/"/>
+    <published>2026-05-25T05:52:08.000Z</published>
     <summary>
-      <![CDATA[<p>雪花算法是推特公司开源的一种分布式ID生成算法，用于在高并发场景下生成全局唯一的ID。</p>
-<p>雪花算法结构：<br />
-1bit（符号位）+ 41bit（时间戳）+ 10bit（机器ID）+ 12bit（序列号）</p>
-<figure]]>
+      <![CDATA[<h2 id="二分查找法"><a class="markdownIt-Anchor" href="#二分查找法"></a>]]>
     </summary>
-    <title>雪花算法</title>
-    <updated>2026-05-27T01:18:45.018Z</updated>
+    <title>二分查找法</title>
+    <updated>2026-05-25T06:24:09.630Z</updated>
   </entry>
   <entry>
     <author>
@@ -198,16 +247,14 @@
     <author>
       <name>彤哥</name>
     </author>
-    <category term="算法" scheme="https://1124839262.github.io/categories/%E7%AE%97%E6%B3%95/"/>
-    <category term="算法" scheme="https://1124839262.github.io/tags/%E7%AE%97%E6%B3%95/"/>
-    <id>https://1124839262.github.io/2026/05/25/binarySearch/</id>
-    <link href="https://1124839262.github.io/2026/05/25/binarySearch/"/>
-    <published>2026-05-25T05:52:08.000Z</published>
+    <id>https://1124839262.github.io/2026/05/22/ShardingJdbc/</id>
+    <link href="https://1124839262.github.io/2026/05/22/ShardingJdbc/"/>
+    <published>2026-05-22T05:37:02.000Z</published>
     <summary>
-      <![CDATA[<h2 id="二分查找法"><a class="markdownIt-Anchor" href="#二分查找法"></a>]]>
+      <![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span]]>
     </summary>
-    <title>二分查找法</title>
-    <updated>2026-05-25T06:24:09.630Z</updated>
+    <title>ShardingJDBC Sharding Algorithm</title>
+    <updated>2026-07-03T06:01:25.151Z</updated>
   </entry>
   <entry>
     <author>
@@ -229,14 +276,17 @@
     <author>
       <name>彤哥</name>
     </author>
-    <id>https://1124839262.github.io/2026/05/22/ShardingJdbc/</id>
-    <link href="https://1124839262.github.io/2026/05/22/ShardingJdbc/"/>
-    <published>2026-05-22T05:37:02.000Z</published>
+    <category term="java" scheme="https://1124839262.github.io/categories/java/"/>
+    <category term="java maven" scheme="https://1124839262.github.io/tags/java-maven/"/>
+    <id>https://1124839262.github.io/2026/05/15/maven-jar-plugin/</id>
+    <link href="https://1124839262.github.io/2026/05/15/maven-jar-plugin/"/>
+    <published>2026-05-15T07:18:56.000Z</published>
     <summary>
-      <![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span]]>
+      <![CDATA[<p>1, 打包jar文件, source, doc</p>
+<figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span]]>
     </summary>
-    <title>ShardingJDBC Sharding Algorithm</title>
-    <updated>2026-07-03T06:01:25.151Z</updated>
+    <title>maven打包</title>
+    <updated>2026-05-15T07:41:55.175Z</updated>
   </entry>
   <entry>
     <author>
@@ -260,35 +310,6 @@
     <author>
       <name>彤哥</name>
     </author>
-    <category term="java" scheme="https://1124839262.github.io/categories/java/"/>
-    <category term="java maven" scheme="https://1124839262.github.io/tags/java-maven/"/>
-    <id>https://1124839262.github.io/2026/05/15/maven-jar-plugin/</id>
-    <link href="https://1124839262.github.io/2026/05/15/maven-jar-plugin/"/>
-    <published>2026-05-15T07:18:56.000Z</published>
-    <summary>
-      <![CDATA[<p>1, 打包jar文件, source, doc</p>
-<figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span]]>
-    </summary>
-    <title>maven打包</title>
-    <updated>2026-05-15T07:41:55.175Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <id>https://1124839262.github.io/2026/04/23/wordedit/</id>
-    <link href="https://1124839262.github.io/2026/04/23/wordedit/"/>
-    <published>2026-04-23T02:25:48.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="canvas-editor是一个基于html5-canvas的富文本编辑器支持所见即所得的编辑体验支持图片上传-视频嵌入-格式排版等功能可以用于笔记编辑-文档编辑-评论区富文本编辑等场景"><a class="markdownIt-Anchor"]]>
-    </summary>
-    <title>wordedit</title>
-    <updated>2026-04-23T02:32:31.702Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
     <id>https://1124839262.github.io/2026/04/23/wordedit/</id>
     <link href="https://1124839262.github.io/2026/04/23/wordedit/"/>
     <published>2026-04-23T02:25:48.000Z</published>
@@ -303,27 +324,13 @@
     <author>
       <name>彤哥</name>
     </author>
-    <id>https://1124839262.github.io/2026/04/22/uniapp01/</id>
-    <link href="https://1124839262.github.io/2026/04/22/uniapp01/"/>
-    <published>2026-04-22T00:42:11.000Z</published>
+    <id>https://1124839262.github.io/2026/04/23/wordedit/</id>
+    <link href="https://1124839262.github.io/2026/04/23/wordedit/"/>
+    <published>2026-04-23T02:25:48.000Z</published>
     <summary>
-      <![CDATA[<p>UniApp is a framework that allows business logic code to run on WeChat Mini Programs, H5, App, and other platforms.</p>
-<p>Recently I]]>
+      <![CDATA[<h2 id="canvas-editor是一个基于html5-canvas的富文本编辑器支持所见即所得的编辑体验支持图片上传-视频嵌入-格式排版等功能可以用于笔记编辑-文档编辑-评论区富文本编辑等场景"><a class="markdownIt-Anchor"]]>
     </summary>
-    <title>UniApp Learning</title>
-    <updated>2026-07-03T06:00:46.829Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <id>https://1124839262.github.io/2026/04/22/uniapp01/</id>
-    <link href="https://1124839262.github.io/2026/04/22/uniapp01/"/>
-    <published>2026-04-22T00:42:11.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="uniapp是一个可以将业务逻辑层代码运行到微信小程序-h5-app等多个平台的框架-最近写了一个uniapp-的-安卓软件-底层用的安卓的代码"><a class="markdownIt-Anchor"]]>
-    </summary>
-    <title>uniapp学习</title>
-    <updated>2026-04-23T02:15:18.284Z</updated>
+    <title>wordedit</title>
+    <updated>2026-04-23T02:32:31.702Z</updated>
   </entry>
 </feed>
