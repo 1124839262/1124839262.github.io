@@ -57,11 +57,11 @@
     <link href="https://1124839262.github.io/2026/07/09/sqlserver-cluster-deploy/"/>
     <published>2026-07-09T06:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="概述"><a class="markdownIt-Anchor" href="#概述"></a> 概述</h2>
-<p>SQL Server 的分布式部署方案因版本不同而有较大差异。<strong>标准版（Standard）</strong> 仅支持基础]]>
+      <![CDATA[<h2 id="overview"><a class="markdownIt-Anchor" href="#overview"></a> Overview</h2>
+<p>SQL Server distributed deployment options vary]]>
     </summary>
-    <title>SQL Server 分布式部署实战：标准版与企业版</title>
-    <updated>2026-07-09T07:12:45.363Z</updated>
+    <title>SQL Server Distributed Deployment in Practice： Standard Edition and Enterprise Edition</title>
+    <updated>2026-07-09T07:14:28.115Z</updated>
   </entry>
   <entry>
     <author>
@@ -74,28 +74,11 @@
     <link href="https://1124839262.github.io/2026/07/09/sqlserver-cluster-deploy/"/>
     <published>2026-07-09T06:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="overview"><a class="markdownIt-Anchor" href="#overview"></a> Overview</h2>
-<p>SQL Server distributed deployment options vary]]>
+      <![CDATA[<h2 id="概述"><a class="markdownIt-Anchor" href="#概述"></a> 概述</h2>
+<p>SQL Server 的分布式部署方案因版本不同而有较大差异。<strong>标准版（Standard）</strong> 仅支持基础]]>
     </summary>
-    <title>SQL Server Distributed Deployment in Practice： Standard Edition and Enterprise Edition</title>
-    <updated>2026-07-09T07:14:28.115Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="DevOps" scheme="https://1124839262.github.io/categories/DevOps/"/>
-    <category term="Redis" scheme="https://1124839262.github.io/tags/Redis/"/>
-    <category term="DevOps" scheme="https://1124839262.github.io/tags/DevOps/"/>
-    <id>https://1124839262.github.io/2026/07/09/redis-deploy/</id>
-    <link href="https://1124839262.github.io/2026/07/09/redis-deploy/"/>
-    <published>2026-07-09T02:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="overview"><a class="markdownIt-Anchor" href="#overview"></a> Overview</h2>
-<p>In production environments, Redis typically does not]]>
-    </summary>
-    <title>Redis Deployment in Practice：Master-Slave Replication and Cluster Mode</title>
-    <updated>2026-07-09T06:51:09.881Z</updated>
+    <title>SQL Server 分布式部署实战：标准版与企业版</title>
+    <updated>2026-07-09T07:12:45.363Z</updated>
   </entry>
   <entry>
     <author>
@@ -113,6 +96,23 @@
     </summary>
     <title>Redis 部署实战：一主两从与集群模式</title>
     <updated>2026-07-09T06:49:17.552Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="DevOps" scheme="https://1124839262.github.io/categories/DevOps/"/>
+    <category term="Redis" scheme="https://1124839262.github.io/tags/Redis/"/>
+    <category term="DevOps" scheme="https://1124839262.github.io/tags/DevOps/"/>
+    <id>https://1124839262.github.io/2026/07/09/redis-deploy/</id>
+    <link href="https://1124839262.github.io/2026/07/09/redis-deploy/"/>
+    <published>2026-07-09T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="overview"><a class="markdownIt-Anchor" href="#overview"></a> Overview</h2>
+<p>In production environments, Redis typically does not]]>
+    </summary>
+    <title>Redis Deployment in Practice：Master-Slave Replication and Cluster Mode</title>
+    <updated>2026-07-09T06:51:09.881Z</updated>
   </entry>
   <entry>
     <author>
@@ -157,10 +157,10 @@
     <link href="https://1124839262.github.io/2026/07/03/openresty-rate-limit/"/>
     <published>2026-07-03T06:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="为什么需要限流"><a class="markdownIt-Anchor" href="#为什么需要限流"></a>]]>
+      <![CDATA[<h2 id="why-rate-limiting-is-needed"><a class="markdownIt-Anchor" href="#why-rate-limiting-is-needed"></a> Why Rate Limiting is]]>
     </summary>
-    <title>OpenResty 限流策略与算法实现</title>
-    <updated>2026-07-03T06:52:34.595Z</updated>
+    <title>OpenResty Rate Limiting Strategies and Algorithm Implementation</title>
+    <updated>2026-07-03T06:59:09.302Z</updated>
   </entry>
   <entry>
     <author>
@@ -173,10 +173,10 @@
     <link href="https://1124839262.github.io/2026/07/03/openresty-rate-limit/"/>
     <published>2026-07-03T06:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="why-rate-limiting-is-needed"><a class="markdownIt-Anchor" href="#why-rate-limiting-is-needed"></a> Why Rate Limiting is]]>
+      <![CDATA[<h2 id="为什么需要限流"><a class="markdownIt-Anchor" href="#为什么需要限流"></a>]]>
     </summary>
-    <title>OpenResty Rate Limiting Strategies and Algorithm Implementation</title>
-    <updated>2026-07-03T06:59:09.302Z</updated>
+    <title>OpenResty 限流策略与算法实现</title>
+    <updated>2026-07-03T06:52:34.595Z</updated>
   </entry>
   <entry>
     <author>
@@ -222,6 +222,22 @@
     <link href="https://1124839262.github.io/2026/06/24/ExpiredOrdersClose/"/>
     <published>2026-06-24T07:32:50.000Z</published>
     <summary>
+      <![CDATA[<h2 id="overview"><a class="markdownIt-Anchor" href="#overview"></a> Overview</h2>
+<p>Expired order closing is a common business]]>
+    </summary>
+    <title>Expired Order Closing</title>
+    <updated>2026-07-03T06:02:37.213Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <id>https://1124839262.github.io/2026/06/24/ExpiredOrdersClose/</id>
+    <link href="https://1124839262.github.io/2026/06/24/ExpiredOrdersClose/"/>
+    <published>2026-06-24T07:32:50.000Z</published>
+    <summary>
       <![CDATA[<h2 id="业务场景"><a class="markdownIt-Anchor" href="#业务场景"></a> 业务场景</h2>
 <p>订单超 30 分钟未支付，则自动取消订单并释放库存。类似场景还有：优惠券过期、预约超时等。</p>
 <hr />
@@ -234,17 +250,17 @@
     <author>
       <name>彤哥</name>
     </author>
-    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
-    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
-    <id>https://1124839262.github.io/2026/06/24/ExpiredOrdersClose/</id>
-    <link href="https://1124839262.github.io/2026/06/24/ExpiredOrdersClose/"/>
-    <published>2026-06-24T07:32:50.000Z</published>
+    <category term="算法" scheme="https://1124839262.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://1124839262.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    <id>https://1124839262.github.io/2026/05/27/Snowflake/</id>
+    <link href="https://1124839262.github.io/2026/05/27/Snowflake/"/>
+    <published>2026-05-27T00:31:37.000Z</published>
     <summary>
-      <![CDATA[<h2 id="overview"><a class="markdownIt-Anchor" href="#overview"></a> Overview</h2>
-<p>Expired order closing is a common business]]>
+      <![CDATA[<h2 id="snowflake-algorithm"><a class="markdownIt-Anchor" href="#snowflake-algorithm"></a> Snowflake Algorithm</h2>
+<p>The Snowflake]]>
     </summary>
-    <title>Expired Order Closing</title>
-    <updated>2026-07-03T06:02:37.213Z</updated>
+    <title>Snowflake Algorithm</title>
+    <updated>2026-07-03T05:59:49.810Z</updated>
   </entry>
   <entry>
     <author>
@@ -263,22 +279,6 @@
     </summary>
     <title>雪花算法</title>
     <updated>2026-05-27T01:18:45.018Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="算法" scheme="https://1124839262.github.io/categories/%E7%AE%97%E6%B3%95/"/>
-    <category term="算法" scheme="https://1124839262.github.io/tags/%E7%AE%97%E6%B3%95/"/>
-    <id>https://1124839262.github.io/2026/05/27/Snowflake/</id>
-    <link href="https://1124839262.github.io/2026/05/27/Snowflake/"/>
-    <published>2026-05-27T00:31:37.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="snowflake-algorithm"><a class="markdownIt-Anchor" href="#snowflake-algorithm"></a> Snowflake Algorithm</h2>
-<p>The Snowflake]]>
-    </summary>
-    <title>Snowflake Algorithm</title>
-    <updated>2026-07-03T05:59:49.810Z</updated>
   </entry>
   <entry>
     <author>
