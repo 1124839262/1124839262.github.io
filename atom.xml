@@ -11,7 +11,45 @@
   <rights>All rights reserved 2026, 彤哥</rights>
   <subtitle>rednoob</subtitle>
   <title>彤哥的个人博客</title>
-  <updated>2026-07-14T05:29:19.433Z</updated>
+  <updated>2026-07-15T01:24:12.245Z</updated>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="Java" scheme="https://1124839262.github.io/categories/Java/"/>
+    <category term="基础" scheme="https://1124839262.github.io/categories/Java/%E5%9F%BA%E7%A1%80/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
+    <category term="并发编程" scheme="https://1124839262.github.io/tags/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
+    <id>https://1124839262.github.io/2026/07/15/java-synchronized-guide/</id>
+    <link href="https://1124839262.github.io/2026/07/15/java-synchronized-guide/"/>
+    <published>2026-07-15T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2>
+<p>在 Java 并发编程中，<code>synchronized</code>]]>
+    </summary>
+    <title>Java synchronized 全解析：从底层原理到面试突击</title>
+    <updated>2026-07-15T01:24:12.245Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="Java" scheme="https://1124839262.github.io/categories/Java/"/>
+    <category term="基础" scheme="https://1124839262.github.io/categories/Java/%E5%9F%BA%E7%A1%80/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
+    <category term="并发编程" scheme="https://1124839262.github.io/tags/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
+    <id>https://1124839262.github.io/2026/07/15/java-synchronized-guide/</id>
+    <link href="https://1124839262.github.io/2026/07/15/java-synchronized-guide/"/>
+    <published>2026-07-15T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="preface"><a class="markdownIt-Anchor" href="#preface"></a> Preface</h2>
+<p>In Java concurrent programming, the]]>
+    </summary>
+    <title>Java synchronized Complete Guide：From Low-Level Principles to Interview Questions</title>
+    <updated>2026-07-15T01:25:41.124Z</updated>
+  </entry>
   <entry>
     <author>
       <name>彤哥</name>
@@ -158,22 +196,6 @@
       <name>彤哥</name>
     </author>
     <category term="Java" scheme="https://1124839262.github.io/categories/Java/"/>
-    <category term="数据结构" scheme="https://1124839262.github.io/categories/Java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    <id>https://1124839262.github.io/2026/07/06/HashMap-List-Tree/</id>
-    <link href="https://1124839262.github.io/2026/07/06/HashMap-List-Tree/"/>
-    <published>2026-07-06T02:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="一-hashmap-概述"><a class="markdownIt-Anchor" href="#一-hashmap-概述"></a> 一、HashMap 概述</h2>
-<p>HashMap 是 Java 中最常用的数据结构之一，它基于哈希表实现，提供了]]>
-    </summary>
-    <title>Java HashMap 深度解析：链表与红黑树</title>
-    <updated>2026-07-06T07:20:02.009Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="Java" scheme="https://1124839262.github.io/categories/Java/"/>
     <category term="Data Structure" scheme="https://1124839262.github.io/categories/Java/Data-Structure/"/>
     <id>https://1124839262.github.io/2026/07/06/HashMap-List-Tree/</id>
     <link href="https://1124839262.github.io/2026/07/06/HashMap-List-Tree/"/>
@@ -184,6 +206,22 @@
     </summary>
     <title>Java HashMap Deep Dive：Linked Lists and Red-Black Trees</title>
     <updated>2026-07-06T07:23:06.855Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="Java" scheme="https://1124839262.github.io/categories/Java/"/>
+    <category term="数据结构" scheme="https://1124839262.github.io/categories/Java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <id>https://1124839262.github.io/2026/07/06/HashMap-List-Tree/</id>
+    <link href="https://1124839262.github.io/2026/07/06/HashMap-List-Tree/"/>
+    <published>2026-07-06T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="一-hashmap-概述"><a class="markdownIt-Anchor" href="#一-hashmap-概述"></a> 一、HashMap 概述</h2>
+<p>HashMap 是 Java 中最常用的数据结构之一，它基于哈希表实现，提供了]]>
+    </summary>
+    <title>Java HashMap 深度解析：链表与红黑树</title>
+    <updated>2026-07-06T07:20:02.009Z</updated>
   </entry>
   <entry>
     <author>
@@ -318,36 +356,5 @@
     </summary>
     <title>Snowflake Algorithm</title>
     <updated>2026-07-03T05:59:49.810Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="算法" scheme="https://1124839262.github.io/categories/%E7%AE%97%E6%B3%95/"/>
-    <category term="算法" scheme="https://1124839262.github.io/tags/%E7%AE%97%E6%B3%95/"/>
-    <id>https://1124839262.github.io/2026/05/25/binarySearch/</id>
-    <link href="https://1124839262.github.io/2026/05/25/binarySearch/"/>
-    <published>2026-05-25T05:52:08.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="二分查找法"><a class="markdownIt-Anchor" href="#二分查找法"></a>]]>
-    </summary>
-    <title>二分查找法</title>
-    <updated>2026-05-25T06:24:09.630Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="算法" scheme="https://1124839262.github.io/categories/%E7%AE%97%E6%B3%95/"/>
-    <category term="算法" scheme="https://1124839262.github.io/tags/%E7%AE%97%E6%B3%95/"/>
-    <id>https://1124839262.github.io/2026/05/25/binarySearch/</id>
-    <link href="https://1124839262.github.io/2026/05/25/binarySearch/"/>
-    <published>2026-05-25T05:52:08.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="binary-search"><a class="markdownIt-Anchor" href="#binary-search"></a> Binary Search</h2>
-<p>Binary search, also known as]]>
-    </summary>
-    <title>Binary Search</title>
-    <updated>2026-07-03T05:57:45.478Z</updated>
   </entry>
 </feed>
