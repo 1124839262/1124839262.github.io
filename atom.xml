@@ -11,25 +11,46 @@
   <rights>All rights reserved 2026, 彤哥</rights>
   <subtitle>rednoob</subtitle>
   <title>彤哥的个人博客</title>
-  <updated>2026-07-21T05:46:49.779Z</updated>
+  <updated>2026-07-21T05:57:06.189Z</updated>
   <entry>
     <author>
       <name>彤哥</name>
     </author>
-    <category term="Java" scheme="https://1124839262.github.io/categories/Java/"/>
-    <category term="开发" scheme="https://1124839262.github.io/categories/Java/%E5%BC%80%E5%8F%91/"/>
+    <category term="开发" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/"/>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
     <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
-    <category term="Java" scheme="https://1124839262.github.io/tags/Java/"/>
     <category term="物联网" scheme="https://1124839262.github.io/tags/%E7%89%A9%E8%81%94%E7%BD%91/"/>
-    <id>https://1124839262.github.io/2026/07/21/java-electrical-device-integration/</id>
-    <link href="https://1124839262.github.io/2026/07/21/java-electrical-device-integration/"/>
-    <published>2026-07-21T06:00:00.000Z</published>
+    <category term="SCADA" scheme="https://1124839262.github.io/tags/SCADA/"/>
+    <category term="自动化" scheme="https://1124839262.github.io/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
+    <id>https://1124839262.github.io/2026/07/21/scada-introduction/</id>
+    <link href="https://1124839262.github.io/2026/07/21/scada-introduction/"/>
+    <published>2026-07-21T07:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="1-introduction"><a class="markdownIt-Anchor" href="#1-introduction"></a> 1. Introduction</h2>
-<p>As a Java backend developer, when]]>
+      <![CDATA[<h2 id="1-preface"><a class="markdownIt-Anchor" href="#1-preface"></a> 1. Preface</h2>
+<p>Recently, an interviewer asked me, “Do you know]]>
     </summary>
-    <title>Practical Guide to Java Electrical Device Integration：From Serial to MQTT</title>
-    <updated>2026-07-21T05:46:49.779Z</updated>
+    <title>Getting Started with SCADA：From PLC and KepServer to the Full Monitoring System</title>
+    <updated>2026-07-21T05:57:06.189Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="开发" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/"/>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="物联网" scheme="https://1124839262.github.io/tags/%E7%89%A9%E8%81%94%E7%BD%91/"/>
+    <category term="SCADA" scheme="https://1124839262.github.io/tags/SCADA/"/>
+    <category term="自动化" scheme="https://1124839262.github.io/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
+    <id>https://1124839262.github.io/2026/07/21/scada-introduction/</id>
+    <link href="https://1124839262.github.io/2026/07/21/scada-introduction/"/>
+    <published>2026-07-21T07:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="一-写在前面"><a class="markdownIt-Anchor" href="#一-写在前面"></a> 一、写在前面</h2>
+<p>最近面试被问到&quot;你会 SCADA]]>
+    </summary>
+    <title>SCADA 入门：从PLC、KepServer到整个监控系统</title>
+    <updated>2026-07-21T05:56:15.448Z</updated>
   </entry>
   <entry>
     <author>
@@ -55,20 +76,19 @@
       <name>彤哥</name>
     </author>
     <category term="Java" scheme="https://1124839262.github.io/categories/Java/"/>
-    <category term="基础" scheme="https://1124839262.github.io/categories/Java/%E5%9F%BA%E7%A1%80/"/>
+    <category term="开发" scheme="https://1124839262.github.io/categories/Java/%E5%BC%80%E5%8F%91/"/>
     <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
-    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
     <category term="Java" scheme="https://1124839262.github.io/tags/Java/"/>
-    <category term="JVM" scheme="https://1124839262.github.io/tags/JVM/"/>
-    <id>https://1124839262.github.io/2026/07/21/java-jvm-comprehensive-guide/</id>
-    <link href="https://1124839262.github.io/2026/07/21/java-jvm-comprehensive-guide/"/>
-    <published>2026-07-21T02:00:00.000Z</published>
+    <category term="物联网" scheme="https://1124839262.github.io/tags/%E7%89%A9%E8%81%94%E7%BD%91/"/>
+    <id>https://1124839262.github.io/2026/07/21/java-electrical-device-integration/</id>
+    <link href="https://1124839262.github.io/2026/07/21/java-electrical-device-integration/"/>
+    <published>2026-07-21T06:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="1-jvm-overview"><a class="markdownIt-Anchor" href="#1-jvm-overview"></a> 1. JVM Overview</h2>
-<h3 id="11-what-is-jvm"><a]]>
+      <![CDATA[<h2 id="1-introduction"><a class="markdownIt-Anchor" href="#1-introduction"></a> 1. Introduction</h2>
+<p>As a Java backend developer, when]]>
     </summary>
-    <title>Java JVM Comprehensive Guide：From Memory Model to Garbage Collection</title>
-    <updated>2026-07-21T05:29:49.687Z</updated>
+    <title>Practical Guide to Java Electrical Device Integration：From Serial to MQTT</title>
+    <updated>2026-07-21T05:46:49.779Z</updated>
   </entry>
   <entry>
     <author>
@@ -89,6 +109,26 @@
     </summary>
     <title>Java JVM 全面解析：从内存模型到垃圾回收</title>
     <updated>2026-07-21T05:28:46.335Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="Java" scheme="https://1124839262.github.io/categories/Java/"/>
+    <category term="基础" scheme="https://1124839262.github.io/categories/Java/%E5%9F%BA%E7%A1%80/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    <category term="Java" scheme="https://1124839262.github.io/tags/Java/"/>
+    <category term="JVM" scheme="https://1124839262.github.io/tags/JVM/"/>
+    <id>https://1124839262.github.io/2026/07/21/java-jvm-comprehensive-guide/</id>
+    <link href="https://1124839262.github.io/2026/07/21/java-jvm-comprehensive-guide/"/>
+    <published>2026-07-21T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="1-jvm-overview"><a class="markdownIt-Anchor" href="#1-jvm-overview"></a> 1. JVM Overview</h2>
+<h3 id="11-what-is-jvm"><a]]>
+    </summary>
+    <title>Java JVM Comprehensive Guide：From Memory Model to Garbage Collection</title>
+    <updated>2026-07-21T05:29:49.687Z</updated>
   </entry>
   <entry>
     <author>
@@ -140,11 +180,10 @@
     <link href="https://1124839262.github.io/2026/07/16/pet-food-interview-20260716/"/>
     <published>2026-07-16T06:00:00.000Z</published>
     <summary>
-      <![CDATA[<p>昨天下午面了一家宠物食品公司，面试官问得非常全面——从业务概念到数据库调优，从微服务架构到RocketMQ深挖，基本把Java后端的知识体系过了一遍。大部分都答上来了，但有些问题往深了讲就不太稳，趁热打铁整理出来，附上参考答案，方便后续查漏补缺。</p>
-<hr]]>
+      <![CDATA[<p>Yesterday afternoon I interviewed at a pet food company. The interviewer covered a very comprehensive range of topics — from business]]>
     </summary>
     <title>宠物食品公司面试复盘：从MES到MQ的全面轰炸</title>
-    <updated>2026-07-17T04:49:31.618Z</updated>
+    <updated>2026-07-17T04:51:51.920Z</updated>
   </entry>
   <entry>
     <author>
@@ -160,27 +199,11 @@
     <link href="https://1124839262.github.io/2026/07/16/pet-food-interview-20260716/"/>
     <published>2026-07-16T06:00:00.000Z</published>
     <summary>
-      <![CDATA[<p>Yesterday afternoon I interviewed at a pet food company. The interviewer covered a very comprehensive range of topics — from business]]>
+      <![CDATA[<p>昨天下午面了一家宠物食品公司，面试官问得非常全面——从业务概念到数据库调优，从微服务架构到RocketMQ深挖，基本把Java后端的知识体系过了一遍。大部分都答上来了，但有些问题往深了讲就不太稳，趁热打铁整理出来，附上参考答案，方便后续查漏补缺。</p>
+<hr]]>
     </summary>
     <title>宠物食品公司面试复盘：从MES到MQ的全面轰炸</title>
-    <updated>2026-07-17T04:51:51.920Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
-    <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
-    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
-    <id>https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/</id>
-    <link href="https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/"/>
-    <published>2026-07-15T12:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="外贸二面过了但-offer-太坑"><a class="markdownIt-Anchor" href="#外贸二面过了但-offer-太坑"></a> 外贸二面过了，但 offer]]>
-    </summary>
-    <title>外贸二面过了，但 offer 太坑</title>
-    <updated>2026-07-16T04:22:22.542Z</updated>
+    <updated>2026-07-17T04:49:31.618Z</updated>
   </entry>
   <entry>
     <author>
@@ -207,16 +230,14 @@
     <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
     <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
-    <id>https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/</id>
-    <link href="https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/"/>
-    <published>2026-07-15T11:00:00.000Z</published>
+    <id>https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/</id>
+    <link href="https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/"/>
+    <published>2026-07-15T12:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="两个二面心里没底"><a class="markdownIt-Anchor" href="#两个二面心里没底"></a> 两个二面，心里没底</h2>
-<p>最近面了两家公司，都走到了二面。说实话，我自己都没想到。</p>
-<h3]]>
+      <![CDATA[<h2 id="外贸二面过了但-offer-太坑"><a class="markdownIt-Anchor" href="#外贸二面过了但-offer-太坑"></a> 外贸二面过了，但 offer]]>
     </summary>
-    <title>两个二面，心里没底</title>
-    <updated>2026-07-15T23:44:10.890Z</updated>
+    <title>外贸二面过了，但 offer 太坑</title>
+    <updated>2026-07-16T04:22:22.542Z</updated>
   </entry>
   <entry>
     <author>
@@ -234,6 +255,25 @@
     </summary>
     <title>Two Second Rounds, Feeling Uncertain</title>
     <updated>2026-07-15T23:44:25.306Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
+    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    <id>https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/</id>
+    <link href="https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/"/>
+    <published>2026-07-15T11:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="两个二面心里没底"><a class="markdownIt-Anchor" href="#两个二面心里没底"></a> 两个二面，心里没底</h2>
+<p>最近面了两家公司，都走到了二面。说实话，我自己都没想到。</p>
+<h3]]>
+    </summary>
+    <title>两个二面，心里没底</title>
+    <updated>2026-07-15T23:44:10.890Z</updated>
   </entry>
   <entry>
     <author>
@@ -349,39 +389,5 @@
     </summary>
     <title>记一次Java后端面试：从AI工具到八股文的全面复盘</title>
     <updated>2026-07-14T05:17:13.308Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="基础" scheme="https://1124839262.github.io/categories/%E5%9F%BA%E7%A1%80/"/>
-    <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
-    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
-    <id>https://1124839262.github.io/2026/07/11/interview-20260711/</id>
-    <link href="https://1124839262.github.io/2026/07/11/interview-20260711/"/>
-    <published>2026-07-11T02:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2>
-<p>今天参加了一场 Java 后端开发岗位的面试，面试官围绕 Java 基础、MySQL、JVM 调优、Redis]]>
-    </summary>
-    <title>面试复盘：Java后端开发面试题全解析</title>
-    <updated>2026-07-11T07:57:38.593Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="基础" scheme="https://1124839262.github.io/categories/%E5%9F%BA%E7%A1%80/"/>
-    <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
-    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
-    <id>https://1124839262.github.io/2026/07/11/interview-20260711/</id>
-    <link href="https://1124839262.github.io/2026/07/11/interview-20260711/"/>
-    <published>2026-07-11T02:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="preface"><a class="markdownIt-Anchor" href="#preface"></a> Preface</h2>
-<p>Today I attended a Java backend developer interview. The]]>
-    </summary>
-    <title>Interview Review：Comprehensive Analysis of Java Backend Interview Questions</title>
-    <updated>2026-07-11T07:57:57.825Z</updated>
   </entry>
 </feed>
