@@ -11,7 +11,7 @@
   <rights>All rights reserved 2026, 彤哥</rights>
   <subtitle>rednoob</subtitle>
   <title>彤哥的个人博客</title>
-  <updated>2026-07-21T05:57:06.189Z</updated>
+  <updated>2026-07-21T06:07:20.581Z</updated>
   <entry>
     <author>
       <name>彤哥</name>
@@ -19,18 +19,38 @@
     <category term="开发" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/"/>
     <category term="架构设计" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
     <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
-    <category term="物联网" scheme="https://1124839262.github.io/tags/%E7%89%A9%E8%81%94%E7%BD%91/"/>
-    <category term="SCADA" scheme="https://1124839262.github.io/tags/SCADA/"/>
-    <category term="自动化" scheme="https://1124839262.github.io/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
-    <id>https://1124839262.github.io/2026/07/21/scada-introduction/</id>
-    <link href="https://1124839262.github.io/2026/07/21/scada-introduction/"/>
-    <published>2026-07-21T07:00:00.000Z</published>
+    <category term="Java" scheme="https://1124839262.github.io/tags/Java/"/>
+    <category term="WMS" scheme="https://1124839262.github.io/tags/WMS/"/>
+    <category term="架构设计" scheme="https://1124839262.github.io/tags/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <id>https://1124839262.github.io/2026/07/21/wms-warehouse-management-system/</id>
+    <link href="https://1124839262.github.io/2026/07/21/wms-warehouse-management-system/"/>
+    <published>2026-07-21T08:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="1-preface"><a class="markdownIt-Anchor" href="#1-preface"></a> 1. Preface</h2>
-<p>Recently, an interviewer asked me, “Do you know]]>
+      <![CDATA[<h2 id="一-wms-是什么"><a class="markdownIt-Anchor" href="#一-wms-是什么"></a> 一、WMS 是什么</h2>
+<p>WMS（Warehouse Management]]>
     </summary>
-    <title>Getting Started with SCADA：From PLC and KepServer to the Full Monitoring System</title>
-    <updated>2026-07-21T05:57:06.189Z</updated>
+    <title>WMS 仓储管理系统：核心功能与技术要点全解析</title>
+    <updated>2026-07-21T06:07:20.581Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="开发" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/"/>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="Java" scheme="https://1124839262.github.io/tags/Java/"/>
+    <category term="WMS" scheme="https://1124839262.github.io/tags/WMS/"/>
+    <category term="架构设计" scheme="https://1124839262.github.io/tags/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <id>https://1124839262.github.io/2026/07/21/wms-warehouse-management-system/</id>
+    <link href="https://1124839262.github.io/2026/07/21/wms-warehouse-management-system/"/>
+    <published>2026-07-21T08:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="1-what-is-wms"><a class="markdownIt-Anchor" href="#1-what-is-wms"></a> 1. What is WMS</h2>
+<p>WMS (Warehouse Management System) is]]>
+    </summary>
+    <title>WMS Warehouse Management System：Core Functions and Technical Essentials</title>
+    <updated>2026-07-21T06:08:48.780Z</updated>
   </entry>
   <entry>
     <author>
@@ -51,6 +71,26 @@
     </summary>
     <title>SCADA 入门：从PLC、KepServer到整个监控系统</title>
     <updated>2026-07-21T05:56:15.448Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="开发" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/"/>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="物联网" scheme="https://1124839262.github.io/tags/%E7%89%A9%E8%81%94%E7%BD%91/"/>
+    <category term="SCADA" scheme="https://1124839262.github.io/tags/SCADA/"/>
+    <category term="自动化" scheme="https://1124839262.github.io/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
+    <id>https://1124839262.github.io/2026/07/21/scada-introduction/</id>
+    <link href="https://1124839262.github.io/2026/07/21/scada-introduction/"/>
+    <published>2026-07-21T07:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="1-preface"><a class="markdownIt-Anchor" href="#1-preface"></a> 1. Preface</h2>
+<p>Recently, an interviewer asked me, “Do you know]]>
+    </summary>
+    <title>Getting Started with SCADA：From PLC and KepServer to the Full Monitoring System</title>
+    <updated>2026-07-21T05:57:06.189Z</updated>
   </entry>
   <entry>
     <author>
@@ -142,11 +182,11 @@
     <link href="https://1124839262.github.io/2026/07/20/local-ai-model-deploy/"/>
     <published>2026-07-20T02:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="overview"><a class="markdownIt-Anchor" href="#overview"></a> Overview</h2>
-<p>During the 2025 Spring Festival, I ran a large]]>
+      <![CDATA[<h2 id="概述"><a class="markdownIt-Anchor" href="#概述"></a> 概述</h2>
+<p>2025年过年的时候，我第一次在本地跑起了大语言模型，用的就是当时火得一塌糊涂的]]>
     </summary>
     <title>本地AI模型部署实战：从Ollama到主流技术方案</title>
-    <updated>2026-07-20T07:10:24.639Z</updated>
+    <updated>2026-07-20T07:09:00.821Z</updated>
   </entry>
   <entry>
     <author>
@@ -160,30 +200,11 @@
     <link href="https://1124839262.github.io/2026/07/20/local-ai-model-deploy/"/>
     <published>2026-07-20T02:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="概述"><a class="markdownIt-Anchor" href="#概述"></a> 概述</h2>
-<p>2025年过年的时候，我第一次在本地跑起了大语言模型，用的就是当时火得一塌糊涂的]]>
+      <![CDATA[<h2 id="overview"><a class="markdownIt-Anchor" href="#overview"></a> Overview</h2>
+<p>During the 2025 Spring Festival, I ran a large]]>
     </summary>
     <title>本地AI模型部署实战：从Ollama到主流技术方案</title>
-    <updated>2026-07-20T07:09:00.821Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="面试复盘" scheme="https://1124839262.github.io/categories/%E9%9D%A2%E8%AF%95%E5%A4%8D%E7%9B%98/"/>
-    <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
-    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
-    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
-    <category term="MySQL" scheme="https://1124839262.github.io/tags/MySQL/"/>
-    <category term="Redis" scheme="https://1124839262.github.io/tags/Redis/"/>
-    <id>https://1124839262.github.io/2026/07/16/pet-food-interview-20260716/</id>
-    <link href="https://1124839262.github.io/2026/07/16/pet-food-interview-20260716/"/>
-    <published>2026-07-16T06:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>Yesterday afternoon I interviewed at a pet food company. The interviewer covered a very comprehensive range of topics — from business]]>
-    </summary>
-    <title>宠物食品公司面试复盘：从MES到MQ的全面轰炸</title>
-    <updated>2026-07-17T04:51:51.920Z</updated>
+    <updated>2026-07-20T07:10:24.639Z</updated>
   </entry>
   <entry>
     <author>
@@ -209,9 +230,28 @@
     <author>
       <name>彤哥</name>
     </author>
-    <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="面试复盘" scheme="https://1124839262.github.io/categories/%E9%9D%A2%E8%AF%95%E5%A4%8D%E7%9B%98/"/>
     <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
+    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
+    <category term="MySQL" scheme="https://1124839262.github.io/tags/MySQL/"/>
+    <category term="Redis" scheme="https://1124839262.github.io/tags/Redis/"/>
+    <id>https://1124839262.github.io/2026/07/16/pet-food-interview-20260716/</id>
+    <link href="https://1124839262.github.io/2026/07/16/pet-food-interview-20260716/"/>
+    <published>2026-07-16T06:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>Yesterday afternoon I interviewed at a pet food company. The interviewer covered a very comprehensive range of topics — from business]]>
+    </summary>
+    <title>宠物食品公司面试复盘：从MES到MQ的全面轰炸</title>
+    <updated>2026-07-17T04:51:51.920Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
     <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
     <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
     <id>https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/</id>
     <link href="https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/"/>
@@ -227,8 +267,8 @@
       <name>彤哥</name>
     </author>
     <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
-    <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
     <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
     <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
     <id>https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/</id>
     <link href="https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/"/>
@@ -244,25 +284,8 @@
       <name>彤哥</name>
     </author>
     <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
-    <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
     <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
-    <id>https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/</id>
-    <link href="https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/"/>
-    <published>2026-07-15T11:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="two-second-rounds-feeling-uncertain"><a class="markdownIt-Anchor" href="#two-second-rounds-feeling-uncertain"></a> Two Second]]>
-    </summary>
-    <title>Two Second Rounds, Feeling Uncertain</title>
-    <updated>2026-07-15T23:44:25.306Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
     <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
-    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
     <id>https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/</id>
     <link href="https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/"/>
@@ -274,6 +297,23 @@
     </summary>
     <title>两个二面，心里没底</title>
     <updated>2026-07-15T23:44:10.890Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
+    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    <id>https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/</id>
+    <link href="https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/"/>
+    <published>2026-07-15T11:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="two-second-rounds-feeling-uncertain"><a class="markdownIt-Anchor" href="#two-second-rounds-feeling-uncertain"></a> Two Second]]>
+    </summary>
+    <title>Two Second Rounds, Feeling Uncertain</title>
+    <updated>2026-07-15T23:44:25.306Z</updated>
   </entry>
   <entry>
     <author>
@@ -350,44 +390,5 @@
     </summary>
     <title>Java synchronized Complete Guide：From Low-Level Principles to Interview Questions</title>
     <updated>2026-07-15T01:25:41.124Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
-    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    <category term="日常" scheme="https://1124839262.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
-    <id>https://1124839262.github.io/2026/07/14/old-man-fortune/</id>
-    <link href="https://1124839262.github.io/2026/07/14/old-man-fortune/"/>
-    <published>2026-07-14T15:30:00.000Z</published>
-    <summary>
-      <![CDATA[<p>今天面试完，心情说不上好也说不上坏，就是那种&quot;答得还行但也没多出彩&quot;的平淡感。回家的路上低着头刷手机，复盘刚才哪些问题没答好，突然被一个声音叫住了。</p>
-<p>“小伙子，你等一下。”</p>
-<p>抬头一看，是个老头。大概六七十岁的样子，穿着深灰色的]]>
-    </summary>
-    <title>面试归途遇老头：面善、黑眼圈与六月十九的财运</title>
-    <updated>2026-07-14T05:29:19.433Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="面试复盘" scheme="https://1124839262.github.io/categories/%E9%9D%A2%E8%AF%95%E5%A4%8D%E7%9B%98/"/>
-    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
-    <category term="Java" scheme="https://1124839262.github.io/tags/Java/"/>
-    <category term="并发编程" scheme="https://1124839262.github.io/tags/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
-    <category term="MySQL" scheme="https://1124839262.github.io/tags/MySQL/"/>
-    <category term="设计模式" scheme="https://1124839262.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    <id>https://1124839262.github.io/2026/07/14/interview-java-2026-07-14/</id>
-    <link href="https://1124839262.github.io/2026/07/14/interview-java-2026-07-14/"/>
-    <published>2026-07-14T13:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>今天参加了一场Java后端开发的面试，整体感觉还是一般般，往深了讲就不太行。趁着记忆还新鲜，赶紧把面试题整理出来，并附上标准答案，方便后续查漏补缺。</p>
-<hr />
-<h2 id="一-ai-vibcoding-相关"><a]]>
-    </summary>
-    <title>记一次Java后端面试：从AI工具到八股文的全面复盘</title>
-    <updated>2026-07-14T05:17:13.308Z</updated>
   </entry>
 </feed>
