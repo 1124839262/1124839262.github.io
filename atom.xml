@@ -134,21 +134,43 @@
     <author>
       <name>彤哥</name>
     </author>
-    <category term="Java" scheme="https://1124839262.github.io/categories/Java/"/>
-    <category term="基础" scheme="https://1124839262.github.io/categories/Java/%E5%9F%BA%E7%A1%80/"/>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <category term="开发" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%BC%80%E5%8F%91/"/>
     <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
-    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
-    <category term="Java" scheme="https://1124839262.github.io/tags/Java/"/>
-    <category term="JVM" scheme="https://1124839262.github.io/tags/JVM/"/>
-    <id>https://1124839262.github.io/2026/07/21/java-jvm-comprehensive-guide/</id>
-    <link href="https://1124839262.github.io/2026/07/21/java-jvm-comprehensive-guide/"/>
+    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
+    <category term="并发编程" scheme="https://1124839262.github.io/tags/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
+    <category term="Redis" scheme="https://1124839262.github.io/tags/Redis/"/>
+    <category term="数据库" scheme="https://1124839262.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <id>https://1124839262.github.io/2026/07/21/distributed-lock-comprehensive-guide/</id>
+    <link href="https://1124839262.github.io/2026/07/21/distributed-lock-comprehensive-guide/"/>
     <published>2026-07-21T02:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="一-jvm-概述"><a class="markdownIt-Anchor" href="#一-jvm-概述"></a> 一、JVM 概述</h2>
-<h3 id="11-什么是-jvm"><a class="markdownIt-Anchor"]]>
+      <![CDATA[<h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2>
+<p>在单机应用中，我们可以用 <code>synchronized</code> 或 <code>ReentrantLock</code>]]>
     </summary>
-    <title>Java JVM 全面解析：从内存模型到垃圾回收</title>
-    <updated>2026-07-21T05:28:46.335Z</updated>
+    <title>分布式锁全解析：从 Redisson 到数据库锁，一网打尽</title>
+    <updated>2026-07-21T08:03:05.747Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <category term="开发" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%BC%80%E5%8F%91/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
+    <category term="并发编程" scheme="https://1124839262.github.io/tags/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
+    <category term="Redis" scheme="https://1124839262.github.io/tags/Redis/"/>
+    <category term="数据库" scheme="https://1124839262.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <id>https://1124839262.github.io/2026/07/21/distributed-lock-comprehensive-guide/</id>
+    <link href="https://1124839262.github.io/2026/07/21/distributed-lock-comprehensive-guide/"/>
+    <published>2026-07-21T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="preface"><a class="markdownIt-Anchor" href="#preface"></a> Preface</h2>
+<p>In a single-machine application, we can use]]>
+    </summary>
+    <title>Distributed Lock Complete Guide：From Redisson to Database Locks, All in One Place</title>
+    <updated>2026-07-21T08:04:32.750Z</updated>
   </entry>
   <entry>
     <author>
@@ -174,19 +196,21 @@
     <author>
       <name>彤哥</name>
     </author>
-    <category term="运维" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/"/>
+    <category term="Java" scheme="https://1124839262.github.io/categories/Java/"/>
+    <category term="基础" scheme="https://1124839262.github.io/categories/Java/%E5%9F%BA%E7%A1%80/"/>
     <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
-    <category term="AI" scheme="https://1124839262.github.io/tags/AI/"/>
-    <category term="运维" scheme="https://1124839262.github.io/tags/%E8%BF%90%E7%BB%B4/"/>
-    <id>https://1124839262.github.io/2026/07/20/local-ai-model-deploy/</id>
-    <link href="https://1124839262.github.io/2026/07/20/local-ai-model-deploy/"/>
-    <published>2026-07-20T02:00:00.000Z</published>
+    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    <category term="Java" scheme="https://1124839262.github.io/tags/Java/"/>
+    <category term="JVM" scheme="https://1124839262.github.io/tags/JVM/"/>
+    <id>https://1124839262.github.io/2026/07/21/java-jvm-comprehensive-guide/</id>
+    <link href="https://1124839262.github.io/2026/07/21/java-jvm-comprehensive-guide/"/>
+    <published>2026-07-21T02:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="概述"><a class="markdownIt-Anchor" href="#概述"></a> 概述</h2>
-<p>2025年过年的时候，我第一次在本地跑起了大语言模型，用的就是当时火得一塌糊涂的]]>
+      <![CDATA[<h2 id="一-jvm-概述"><a class="markdownIt-Anchor" href="#一-jvm-概述"></a> 一、JVM 概述</h2>
+<h3 id="11-什么是-jvm"><a class="markdownIt-Anchor"]]>
     </summary>
-    <title>本地AI模型部署实战：从Ollama到主流技术方案</title>
-    <updated>2026-07-20T07:09:00.821Z</updated>
+    <title>Java JVM 全面解析：从内存模型到垃圾回收</title>
+    <updated>2026-07-21T05:28:46.335Z</updated>
   </entry>
   <entry>
     <author>
@@ -210,12 +234,30 @@
     <author>
       <name>彤哥</name>
     </author>
+    <category term="运维" scheme="https://1124839262.github.io/categories/%E8%BF%90%E7%BB%B4/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="AI" scheme="https://1124839262.github.io/tags/AI/"/>
+    <category term="运维" scheme="https://1124839262.github.io/tags/%E8%BF%90%E7%BB%B4/"/>
+    <id>https://1124839262.github.io/2026/07/20/local-ai-model-deploy/</id>
+    <link href="https://1124839262.github.io/2026/07/20/local-ai-model-deploy/"/>
+    <published>2026-07-20T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="概述"><a class="markdownIt-Anchor" href="#概述"></a> 概述</h2>
+<p>2025年过年的时候，我第一次在本地跑起了大语言模型，用的就是当时火得一塌糊涂的]]>
+    </summary>
+    <title>本地AI模型部署实战：从Ollama到主流技术方案</title>
+    <updated>2026-07-20T07:09:00.821Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
     <category term="面试复盘" scheme="https://1124839262.github.io/categories/%E9%9D%A2%E8%AF%95%E5%A4%8D%E7%9B%98/"/>
     <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
-    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
     <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
-    <category term="MySQL" scheme="https://1124839262.github.io/tags/MySQL/"/>
     <category term="Redis" scheme="https://1124839262.github.io/tags/Redis/"/>
+    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    <category term="MySQL" scheme="https://1124839262.github.io/tags/MySQL/"/>
     <id>https://1124839262.github.io/2026/07/16/pet-food-interview-20260716/</id>
     <link href="https://1124839262.github.io/2026/07/16/pet-food-interview-20260716/"/>
     <published>2026-07-16T06:00:00.000Z</published>
@@ -232,10 +274,10 @@
     </author>
     <category term="面试复盘" scheme="https://1124839262.github.io/categories/%E9%9D%A2%E8%AF%95%E5%A4%8D%E7%9B%98/"/>
     <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
-    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
     <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
-    <category term="MySQL" scheme="https://1124839262.github.io/tags/MySQL/"/>
     <category term="Redis" scheme="https://1124839262.github.io/tags/Redis/"/>
+    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    <category term="MySQL" scheme="https://1124839262.github.io/tags/MySQL/"/>
     <id>https://1124839262.github.io/2026/07/16/pet-food-interview-20260716/</id>
     <link href="https://1124839262.github.io/2026/07/16/pet-food-interview-20260716/"/>
     <published>2026-07-16T06:00:00.000Z</published>
@@ -250,8 +292,8 @@
       <name>彤哥</name>
     </author>
     <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
-    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
+    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
     <id>https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/</id>
     <link href="https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/"/>
@@ -267,8 +309,8 @@
       <name>彤哥</name>
     </author>
     <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
-    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
+    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
     <id>https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/</id>
     <link href="https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/"/>
@@ -284,8 +326,8 @@
       <name>彤哥</name>
     </author>
     <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
-    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
+    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
     <id>https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/</id>
     <link href="https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/"/>
@@ -303,8 +345,8 @@
       <name>彤哥</name>
     </author>
     <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
-    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
+    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
     <id>https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/</id>
     <link href="https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/"/>
@@ -352,43 +394,5 @@
     </summary>
     <title>Java Singleton Pattern Complete Guide：From Eager to Enum, 7 Implementation Methods Explained</title>
     <updated>2026-07-15T02:11:03.198Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="Java" scheme="https://1124839262.github.io/categories/Java/"/>
-    <category term="基础" scheme="https://1124839262.github.io/categories/Java/%E5%9F%BA%E7%A1%80/"/>
-    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
-    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
-    <category term="并发编程" scheme="https://1124839262.github.io/tags/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
-    <id>https://1124839262.github.io/2026/07/15/java-synchronized-guide/</id>
-    <link href="https://1124839262.github.io/2026/07/15/java-synchronized-guide/"/>
-    <published>2026-07-15T02:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2>
-<p>在 Java 并发编程中，<code>synchronized</code>]]>
-    </summary>
-    <title>Java synchronized 全解析：从底层原理到面试突击</title>
-    <updated>2026-07-15T01:24:12.245Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="Java" scheme="https://1124839262.github.io/categories/Java/"/>
-    <category term="基础" scheme="https://1124839262.github.io/categories/Java/%E5%9F%BA%E7%A1%80/"/>
-    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
-    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
-    <category term="并发编程" scheme="https://1124839262.github.io/tags/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
-    <id>https://1124839262.github.io/2026/07/15/java-synchronized-guide/</id>
-    <link href="https://1124839262.github.io/2026/07/15/java-synchronized-guide/"/>
-    <published>2026-07-15T02:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="preface"><a class="markdownIt-Anchor" href="#preface"></a> Preface</h2>
-<p>In Java concurrent programming, the]]>
-    </summary>
-    <title>Java synchronized Complete Guide：From Low-Level Principles to Interview Questions</title>
-    <updated>2026-07-15T01:25:41.124Z</updated>
   </entry>
 </feed>
