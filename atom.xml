@@ -41,6 +41,48 @@
     <category term="Java" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%BC%80%E5%8F%91/Java/"/>
     <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
     <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
+    <category term="数据库" scheme="https://1124839262.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <category term="架构设计" scheme="https://1124839262.github.io/tags/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <id>https://1124839262.github.io/2026/07/24/distributed-transaction-seata-guide/</id>
+    <link href="https://1124839262.github.io/2026/07/24/distributed-transaction-seata-guide/"/>
+    <published>2026-07-24T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2>
+<p>在单体应用中，事务管理是一件相对简单的事情——Spring 的 <code>@Transactional</code>]]>
+    </summary>
+    <title>分布式事务全解析：从理论到 Seata 实战，一篇文章就够了</title>
+    <updated>2026-07-24T05:25:00.699Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <category term="开发" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%BC%80%E5%8F%91/"/>
+    <category term="Java" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%BC%80%E5%8F%91/Java/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
+    <category term="数据库" scheme="https://1124839262.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <category term="架构设计" scheme="https://1124839262.github.io/tags/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <id>https://1124839262.github.io/2026/07/24/distributed-transaction-seata-guide/</id>
+    <link href="https://1124839262.github.io/2026/07/24/distributed-transaction-seata-guide/"/>
+    <published>2026-07-24T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="preface"><a class="markdownIt-Anchor" href="#preface"></a> Preface</h2>
+<p>In a monolithic application, transaction management is]]>
+    </summary>
+    <title>Distributed Transaction Comprehensive Guide：From Theory to Seata Practice</title>
+    <updated>2026-07-24T05:27:06.032Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <category term="开发" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%BC%80%E5%8F%91/"/>
+    <category term="Java" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%BC%80%E5%8F%91/Java/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
     <category term="架构设计" scheme="https://1124839262.github.io/tags/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
     <id>https://1124839262.github.io/2026/07/24/dubbo-comprehensive-guide/</id>
     <link href="https://1124839262.github.io/2026/07/24/dubbo-comprehensive-guide/"/>
@@ -106,11 +148,11 @@
     <link href="https://1124839262.github.io/2026/07/21/scada-introduction/"/>
     <published>2026-07-21T07:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="一-写在前面"><a class="markdownIt-Anchor" href="#一-写在前面"></a> 一、写在前面</h2>
-<p>最近面试被问到&quot;你会 SCADA]]>
+      <![CDATA[<h2 id="1-preface"><a class="markdownIt-Anchor" href="#1-preface"></a> 1. Preface</h2>
+<p>Recently, an interviewer asked me, “Do you know]]>
     </summary>
-    <title>SCADA 入门：从PLC、KepServer到整个监控系统</title>
-    <updated>2026-07-21T05:56:15.448Z</updated>
+    <title>Getting Started with SCADA：From PLC and KepServer to the Full Monitoring System</title>
+    <updated>2026-07-21T05:57:06.189Z</updated>
   </entry>
   <entry>
     <author>
@@ -126,11 +168,11 @@
     <link href="https://1124839262.github.io/2026/07/21/scada-introduction/"/>
     <published>2026-07-21T07:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="1-preface"><a class="markdownIt-Anchor" href="#1-preface"></a> 1. Preface</h2>
-<p>Recently, an interviewer asked me, “Do you know]]>
+      <![CDATA[<h2 id="一-写在前面"><a class="markdownIt-Anchor" href="#一-写在前面"></a> 一、写在前面</h2>
+<p>最近面试被问到&quot;你会 SCADA]]>
     </summary>
-    <title>Getting Started with SCADA：From PLC and KepServer to the Full Monitoring System</title>
-    <updated>2026-07-21T05:57:06.189Z</updated>
+    <title>SCADA 入门：从PLC、KepServer到整个监控系统</title>
+    <updated>2026-07-21T05:56:15.448Z</updated>
   </entry>
   <entry>
     <author>
@@ -339,23 +381,6 @@
     <link href="https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/"/>
     <published>2026-07-15T12:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="外贸二面过了但-offer-太坑"><a class="markdownIt-Anchor" href="#外贸二面过了但-offer-太坑"></a> 外贸二面过了，但 offer]]>
-    </summary>
-    <title>外贸二面过了，但 offer 太坑</title>
-    <updated>2026-07-16T04:22:22.542Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
-    <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
-    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
-    <id>https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/</id>
-    <link href="https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/"/>
-    <published>2026-07-15T12:00:00.000Z</published>
-    <summary>
       <![CDATA[<h2 id="passed-the-foreign-trade-second-round-but-the-offer-is-terrible"><a class="markdownIt-Anchor"]]>
     </summary>
     <title>Passed the Foreign Trade Second Round, but the Offer is Terrible</title>
@@ -369,32 +394,13 @@
     <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
     <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
-    <id>https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/</id>
-    <link href="https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/"/>
-    <published>2026-07-15T11:00:00.000Z</published>
+    <id>https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/</id>
+    <link href="https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/"/>
+    <published>2026-07-15T12:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="two-second-rounds-feeling-uncertain"><a class="markdownIt-Anchor" href="#two-second-rounds-feeling-uncertain"></a> Two Second]]>
+      <![CDATA[<h2 id="外贸二面过了但-offer-太坑"><a class="markdownIt-Anchor" href="#外贸二面过了但-offer-太坑"></a> 外贸二面过了，但 offer]]>
     </summary>
-    <title>Two Second Rounds, Feeling Uncertain</title>
-    <updated>2026-07-15T23:44:25.306Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
-    <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
-    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
-    <id>https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/</id>
-    <link href="https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/"/>
-    <published>2026-07-15T11:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="两个二面心里没底"><a class="markdownIt-Anchor" href="#两个二面心里没底"></a> 两个二面，心里没底</h2>
-<p>最近面了两家公司，都走到了二面。说实话，我自己都没想到。</p>
-<h3]]>
-    </summary>
-    <title>两个二面，心里没底</title>
-    <updated>2026-07-15T23:44:10.890Z</updated>
+    <title>外贸二面过了，但 offer 太坑</title>
+    <updated>2026-07-16T04:22:22.542Z</updated>
   </entry>
 </feed>
