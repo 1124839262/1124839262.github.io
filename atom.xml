@@ -11,7 +11,47 @@
   <rights>All rights reserved 2026, 彤哥</rights>
   <subtitle>rednoob</subtitle>
   <title>彤哥的个人博客</title>
-  <updated>2026-07-21T06:07:20.581Z</updated>
+  <updated>2026-07-24T01:24:16.785Z</updated>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <category term="开发" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%BC%80%E5%8F%91/"/>
+    <category term="Java" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%BC%80%E5%8F%91/Java/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
+    <category term="架构设计" scheme="https://1124839262.github.io/tags/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <id>https://1124839262.github.io/2026/07/24/dubbo-comprehensive-guide/</id>
+    <link href="https://1124839262.github.io/2026/07/24/dubbo-comprehensive-guide/"/>
+    <published>2026-07-24T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2>
+<p>在单体应用时代，方法调用就是简单的 A 类调 B]]>
+    </summary>
+    <title>Dubbo 全方位指南：从入门到实战，一次讲透</title>
+    <updated>2026-07-24T01:24:16.785Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <category term="开发" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%BC%80%E5%8F%91/"/>
+    <category term="Java" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%BC%80%E5%8F%91/Java/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
+    <category term="架构设计" scheme="https://1124839262.github.io/tags/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <id>https://1124839262.github.io/2026/07/24/dubbo-comprehensive-guide/</id>
+    <link href="https://1124839262.github.io/2026/07/24/dubbo-comprehensive-guide/"/>
+    <published>2026-07-24T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="preface"><a class="markdownIt-Anchor" href="#preface"></a> Preface</h2>
+<p>In the era of monolithic applications, method calls were]]>
+    </summary>
+    <title>Dubbo Comprehensive Guide：From Beginner to Production, Explained in One Article</title>
+    <updated>2026-07-24T01:24:48.940Z</updated>
+  </entry>
   <entry>
     <author>
       <name>彤哥</name>
@@ -19,9 +59,9 @@
     <category term="开发" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/"/>
     <category term="架构设计" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
     <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="架构设计" scheme="https://1124839262.github.io/tags/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
     <category term="Java" scheme="https://1124839262.github.io/tags/Java/"/>
     <category term="WMS" scheme="https://1124839262.github.io/tags/WMS/"/>
-    <category term="架构设计" scheme="https://1124839262.github.io/tags/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
     <id>https://1124839262.github.io/2026/07/21/wms-warehouse-management-system/</id>
     <link href="https://1124839262.github.io/2026/07/21/wms-warehouse-management-system/"/>
     <published>2026-07-21T08:00:00.000Z</published>
@@ -39,9 +79,9 @@
     <category term="开发" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/"/>
     <category term="架构设计" scheme="https://1124839262.github.io/categories/%E5%BC%80%E5%8F%91/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
     <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="架构设计" scheme="https://1124839262.github.io/tags/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
     <category term="Java" scheme="https://1124839262.github.io/tags/Java/"/>
     <category term="WMS" scheme="https://1124839262.github.io/tags/WMS/"/>
-    <category term="架构设计" scheme="https://1124839262.github.io/tags/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
     <id>https://1124839262.github.io/2026/07/21/wms-warehouse-management-system/</id>
     <link href="https://1124839262.github.io/2026/07/21/wms-warehouse-management-system/"/>
     <published>2026-07-21T08:00:00.000Z</published>
@@ -105,11 +145,11 @@
     <link href="https://1124839262.github.io/2026/07/21/java-electrical-device-integration/"/>
     <published>2026-07-21T06:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="一-前言"><a class="markdownIt-Anchor" href="#一-前言"></a> 一、前言</h2>
-<p>作为一名 Java 后端开发，当接到&quot;对接现场设备&quot;需求时，第一反应往往是困惑——Java 擅长的是 Web]]>
+      <![CDATA[<h2 id="1-introduction"><a class="markdownIt-Anchor" href="#1-introduction"></a> 1. Introduction</h2>
+<p>As a Java backend developer, when]]>
     </summary>
-    <title>Java 对接电气设备实践指南：从串口到MQTT</title>
-    <updated>2026-07-21T05:45:30.466Z</updated>
+    <title>Practical Guide to Java Electrical Device Integration：From Serial to MQTT</title>
+    <updated>2026-07-21T05:46:49.779Z</updated>
   </entry>
   <entry>
     <author>
@@ -124,32 +164,11 @@
     <link href="https://1124839262.github.io/2026/07/21/java-electrical-device-integration/"/>
     <published>2026-07-21T06:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="1-introduction"><a class="markdownIt-Anchor" href="#1-introduction"></a> 1. Introduction</h2>
-<p>As a Java backend developer, when]]>
+      <![CDATA[<h2 id="一-前言"><a class="markdownIt-Anchor" href="#一-前言"></a> 一、前言</h2>
+<p>作为一名 Java 后端开发，当接到&quot;对接现场设备&quot;需求时，第一反应往往是困惑——Java 擅长的是 Web]]>
     </summary>
-    <title>Practical Guide to Java Electrical Device Integration：From Serial to MQTT</title>
-    <updated>2026-07-21T05:46:49.779Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
-    <category term="开发" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%BC%80%E5%8F%91/"/>
-    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
-    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
-    <category term="并发编程" scheme="https://1124839262.github.io/tags/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
-    <category term="Redis" scheme="https://1124839262.github.io/tags/Redis/"/>
-    <category term="数据库" scheme="https://1124839262.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    <id>https://1124839262.github.io/2026/07/21/distributed-lock-comprehensive-guide/</id>
-    <link href="https://1124839262.github.io/2026/07/21/distributed-lock-comprehensive-guide/"/>
-    <published>2026-07-21T02:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2>
-<p>在单机应用中，我们可以用 <code>synchronized</code> 或 <code>ReentrantLock</code>]]>
-    </summary>
-    <title>分布式锁全解析：从 Redisson 到数据库锁，一网打尽</title>
-    <updated>2026-07-21T08:03:05.747Z</updated>
+    <title>Java 对接电气设备实践指南：从串口到MQTT</title>
+    <updated>2026-07-21T05:45:30.466Z</updated>
   </entry>
   <entry>
     <author>
@@ -171,6 +190,27 @@
     </summary>
     <title>Distributed Lock Complete Guide：From Redisson to Database Locks, All in One Place</title>
     <updated>2026-07-21T08:04:32.750Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>彤哥</name>
+    </author>
+    <category term="架构设计" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+    <category term="开发" scheme="https://1124839262.github.io/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E5%BC%80%E5%8F%91/"/>
+    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
+    <category term="并发编程" scheme="https://1124839262.github.io/tags/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
+    <category term="Redis" scheme="https://1124839262.github.io/tags/Redis/"/>
+    <category term="数据库" scheme="https://1124839262.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <id>https://1124839262.github.io/2026/07/21/distributed-lock-comprehensive-guide/</id>
+    <link href="https://1124839262.github.io/2026/07/21/distributed-lock-comprehensive-guide/"/>
+    <published>2026-07-21T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2>
+<p>在单机应用中，我们可以用 <code>synchronized</code> 或 <code>ReentrantLock</code>]]>
+    </summary>
+    <title>分布式锁全解析：从 Redisson 到数据库锁，一网打尽</title>
+    <updated>2026-07-21T08:03:05.747Z</updated>
   </entry>
   <entry>
     <author>
@@ -224,11 +264,11 @@
     <link href="https://1124839262.github.io/2026/07/20/local-ai-model-deploy/"/>
     <published>2026-07-20T02:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="overview"><a class="markdownIt-Anchor" href="#overview"></a> Overview</h2>
-<p>During the 2025 Spring Festival, I ran a large]]>
+      <![CDATA[<h2 id="概述"><a class="markdownIt-Anchor" href="#概述"></a> 概述</h2>
+<p>2025年过年的时候，我第一次在本地跑起了大语言模型，用的就是当时火得一塌糊涂的]]>
     </summary>
     <title>本地AI模型部署实战：从Ollama到主流技术方案</title>
-    <updated>2026-07-20T07:10:24.639Z</updated>
+    <updated>2026-07-20T07:09:00.821Z</updated>
   </entry>
   <entry>
     <author>
@@ -242,11 +282,11 @@
     <link href="https://1124839262.github.io/2026/07/20/local-ai-model-deploy/"/>
     <published>2026-07-20T02:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="概述"><a class="markdownIt-Anchor" href="#概述"></a> 概述</h2>
-<p>2025年过年的时候，我第一次在本地跑起了大语言模型，用的就是当时火得一塌糊涂的]]>
+      <![CDATA[<h2 id="overview"><a class="markdownIt-Anchor" href="#overview"></a> Overview</h2>
+<p>During the 2025 Spring Festival, I ran a large]]>
     </summary>
     <title>本地AI模型部署实战：从Ollama到主流技术方案</title>
-    <updated>2026-07-20T07:09:00.821Z</updated>
+    <updated>2026-07-20T07:10:24.639Z</updated>
   </entry>
   <entry>
     <author>
@@ -299,23 +339,6 @@
     <link href="https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/"/>
     <published>2026-07-15T12:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="passed-the-foreign-trade-second-round-but-the-offer-is-terrible"><a class="markdownIt-Anchor"]]>
-    </summary>
-    <title>Passed the Foreign Trade Second Round, but the Offer is Terrible</title>
-    <updated>2026-07-16T04:22:43.921Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
-    <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
-    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
-    <id>https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/</id>
-    <link href="https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/"/>
-    <published>2026-07-15T12:00:00.000Z</published>
-    <summary>
       <![CDATA[<h2 id="外贸二面过了但-offer-太坑"><a class="markdownIt-Anchor" href="#外贸二面过了但-offer-太坑"></a> 外贸二面过了，但 offer]]>
     </summary>
     <title>外贸二面过了，但 offer 太坑</title>
@@ -329,16 +352,14 @@
     <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
     <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
-    <id>https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/</id>
-    <link href="https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/"/>
-    <published>2026-07-15T11:00:00.000Z</published>
+    <id>https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/</id>
+    <link href="https://1124839262.github.io/2026/07/15/foreign-trade-interview-passed/"/>
+    <published>2026-07-15T12:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="两个二面心里没底"><a class="markdownIt-Anchor" href="#两个二面心里没底"></a> 两个二面，心里没底</h2>
-<p>最近面了两家公司，都走到了二面。说实话，我自己都没想到。</p>
-<h3]]>
+      <![CDATA[<h2 id="passed-the-foreign-trade-second-round-but-the-offer-is-terrible"><a class="markdownIt-Anchor"]]>
     </summary>
-    <title>两个二面，心里没底</title>
-    <updated>2026-07-15T23:44:10.890Z</updated>
+    <title>Passed the Foreign Trade Second Round, but the Offer is Terrible</title>
+    <updated>2026-07-16T04:22:43.921Z</updated>
   </entry>
   <entry>
     <author>
@@ -361,38 +382,19 @@
     <author>
       <name>彤哥</name>
     </author>
-    <category term="Java" scheme="https://1124839262.github.io/categories/Java/"/>
-    <category term="基础" scheme="https://1124839262.github.io/categories/Java/%E5%9F%BA%E7%A1%80/"/>
-    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
-    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
-    <category term="设计模式" scheme="https://1124839262.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    <id>https://1124839262.github.io/2026/07/15/singleton-pattern-guide/</id>
-    <link href="https://1124839262.github.io/2026/07/15/singleton-pattern-guide/"/>
-    <published>2026-07-15T03:00:00.000Z</published>
+    <category term="日常" scheme="https://1124839262.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="工作" scheme="https://1124839262.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
+    <category term="碎碎念" scheme="https://1124839262.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    <category term="面试" scheme="https://1124839262.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    <id>https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/</id>
+    <link href="https://1124839262.github.io/2026/07/15/interview-second-round-thoughts/"/>
+    <published>2026-07-15T11:00:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2>
-<p>单例模式（Singleton]]>
+      <![CDATA[<h2 id="两个二面心里没底"><a class="markdownIt-Anchor" href="#两个二面心里没底"></a> 两个二面，心里没底</h2>
+<p>最近面了两家公司，都走到了二面。说实话，我自己都没想到。</p>
+<h3]]>
     </summary>
-    <title>Java 单例模式全解析：从饿汉到枚举，7 种实现方式详解</title>
-    <updated>2026-07-15T02:09:30.595Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>彤哥</name>
-    </author>
-    <category term="Java" scheme="https://1124839262.github.io/categories/Java/"/>
-    <category term="基础" scheme="https://1124839262.github.io/categories/Java/%E5%9F%BA%E7%A1%80/"/>
-    <category term="开发" scheme="https://1124839262.github.io/tags/%E5%BC%80%E5%8F%91/"/>
-    <category term="java" scheme="https://1124839262.github.io/tags/java/"/>
-    <category term="设计模式" scheme="https://1124839262.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    <id>https://1124839262.github.io/2026/07/15/singleton-pattern-guide/</id>
-    <link href="https://1124839262.github.io/2026/07/15/singleton-pattern-guide/"/>
-    <published>2026-07-15T03:00:00.000Z</published>
-    <summary>
-      <![CDATA[<h2 id="preface"><a class="markdownIt-Anchor" href="#preface"></a> Preface</h2>
-<p>The Singleton Pattern is the simplest and most commonly]]>
-    </summary>
-    <title>Java Singleton Pattern Complete Guide：From Eager to Enum, 7 Implementation Methods Explained</title>
-    <updated>2026-07-15T02:11:03.198Z</updated>
+    <title>两个二面，心里没底</title>
+    <updated>2026-07-15T23:44:10.890Z</updated>
   </entry>
 </feed>
